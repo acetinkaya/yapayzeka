@@ -74,12 +74,12 @@
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli1.png)
 
 
-6. Aşama -> Yüklenen veri setleri aşağıdaki görsel üzerindeki gibi drive alanında olmalıdır.
-![alternatif metin](
+6. Aşama -> Veri setlerinin dosya uzantılarının farklı olması sistemin ilk kurgusu noktasında dezavantaj oluşturmaktadır. *.csv formatına veri setlerini ayarlamalıyız.
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli2.png)
 
 
-7. Aşama -> Veri setlerinin dosya uzantılarının farklı olması sistemin ilk kurgusu noktasında dezavantaj oluşturmaktadır. *.csv formatına veri setlerini ayarlamalıyız.
-![alternatif metin](
+7. Aşama -> asd
+![alternatif metin](asd
 
 
 14. Aşama -> 
