@@ -18,7 +18,7 @@
     Veri Seti Kaynağı : İBB Açık Veri Portalı,  [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/ilce-bazinda-su-tuketim-miktari)
     ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/2024-Istanbul-Su.png)
 
-   Referans: İBB İSKİ (2024). İlçe Bazında Su Tüketim Miktarı (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İStanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/ilce-bazinda-su-tuketim-miktari (Erişim Tarihi: 05.05.2024)
+   Referans: İBB İSKİ (2024). İlçe Bazında Su Tüketim Miktarı (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İstanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/ilce-bazinda-su-tuketim-miktari (Erişim Tarihi: 05.05.2024)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
