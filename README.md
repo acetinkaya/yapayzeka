@@ -11,3 +11,5 @@
 
 4. İstanbulun Çöpünden Geri Kazanım Miktarı ve çöpten elde edilen enerjinin Yapay Zeka Teknikleriyle İşlenerek Analizler Ortaya Çıkarılması
     Veri Seti Kaynağı : İBB Açık Veri Portalı, Veri Seti Linki-->> [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari)
+
+5. 
