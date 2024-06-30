@@ -1,5 +1,19 @@
 # İstanbul Büyükşehir Belediyesinin İBB Açık Veri Portalında bulunan gerçek veriler ile Yapay Zeka Algoritmalarının Bütünleştirilerek Tümleşik bir sistemin ortaya çıkarılması
 
+# Amaç: 
+
+* Yapay Zeka ile gerçek verileri işlerken karşılaşılan sorunlara çözümler üretebilme
+* Oluşan çözümlerin gerçek hayat verileri olarak nasıl kullanılabileceği
+* Yapay Zeka kapsamında Bilinç ve Farkındalık oluşturma
+* Yaşadığımız şehrin sorunlarına ortak çözümler üretebilme
+* Türkçe Açık Kaynak Veri Setleri Üzerinde çalışma
+* Kurumlarımızın verilerine akademinin işbirliği - aracılığı ile çözümlerin ortaya koyabilmesi
+* Ülkemizin Açık Kaynak Veri Paylasımı noktasındaki çalışmaları dünyaya tanıtma ve duyurma
+* Açık kaynak verinin işlenmesinde işlem aşamaları
+* 
+
+
+
 1. İstanbulun İlçeler Genelinde Günlük Su Tüketimlerinin Yapay Zeka Algoritmalarıyla İşlenerek Analizler Ortaya Çıkarılması
     Veri Seti Kaynağı : İBB Açık Veri Portalı,  [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/ilce-bazinda-su-tuketim-miktari)
     ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/2024-Istanbul-Su.png)
