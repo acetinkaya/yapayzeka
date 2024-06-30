@@ -60,15 +60,26 @@
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli0.png)
 
 2. Aşama -> Google Drive Sistemini Aktif Edin
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli01.png)
 
 3. Aşama -> Google Drive Bağlantı Süreçlerini Gerçekleştirin
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli02.png)
+
 
 4. Aşama -> Google Drive Alanında "YapayZekaIstanbul" ismiyle yeni klasör oluşturun
+![alternatif metin](
+
 
 5. Aşama -> Google Drive-> YapayZekaIstanbul klasörü içerisie içerisine "VeriSetleri" ismiyle yeni bir klasör oluşturup indirdiğiniz veri setlerini bu bölüme yüklemesini yapınız.
+![alternatif metin](
+
 
 6. Aşama -> Yüklenen veri setleri aşağıdaki görsel üzerindeki gibi drive alanında olmalıdır.
+![alternatif metin](
+
 
 7. Aşama -> Veri setlerinin dosya uzantılarının farklı olması sistemin ilk kurgusu noktasında dezavantaj oluşturmaktadır. *.csv formatına veri setlerini ayarlamalıyız.
+![alternatif metin](
 
-8. Aşama -> 
+
+14. Aşama -> 
