@@ -26,7 +26,7 @@
    Veri Seti Kaynağı : İBB Açık Veri Portalı, Veri Seti Linki-->> [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/istanbul-trafik-indeksi)
    ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/2024-Istanbul-Trafik.png)
 
-   Referans: İBB Ulaşım Dairesi Başkanlığı (2024). İstanbul Trafik İndeksi (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İStanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/istanbul-trafik-indeksi (Erişim Tarihi: 25.05.2024)
+   Referans: İBB Ulaşım Dairesi Başkanlığı (2024). İstanbul Trafik İndeksi (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İstanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/istanbul-trafik-indeksi (Erişim Tarihi: 25.05.2024)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
