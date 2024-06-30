@@ -59,6 +59,8 @@
 1. Aşama -> Dosyaları Bilgisayarınızda Masaüstünde YapayZekaIstanbul ismiyle acacağınız klasöre yüklemesini yapınız
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli0.png)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 2. Aşama -> Google Drive Sistemini Aktif Edin
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli01.png)
 
