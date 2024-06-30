@@ -59,13 +59,19 @@
 1. Aşama -> Dosyaları Bilgisayarınızda Masaüstünde YapayZekaIstanbul ismiyle acacağınız klasöre yüklemesini yapınız
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli0.png)
 
-2. Aşama -> Google Colab Sistemini Aktif Edin
+2. Aşama -> Google Drive Sistemini Aktif Edin
 
-3. Aşama -> Google Colab Bağlantı Süreçlerini Gerçekleştirin
+3. Aşama -> Google Drive Bağlantı Süreçlerini Gerçekleştirin
 
 4. Aşama -> Google Drive Alanında "YapayZekaIstanbul" ismiyle yeni klasör oluşturun
 
-5. Aşama -> Google Drive-> YapayZekaIstanbul klasörü içerisie içerisine "VeriSetleri" ismiyle yeni bir klasör oluşturup indirdiğiniz veri setlerini bu bölüme yüklemesini yapınız.   
+5. Aşama -> Google Drive-> YapayZekaIstanbul klasörü içerisie içerisine "VeriSetleri" ismiyle yeni bir klasör oluşturup indirdiğiniz veri setlerini bu bölüme yüklemesini yapınız.
+
+6. Aşama -> Yüklenen veri setleri aşağıdaki görsel üzerindeki gibi drive alanında olmalıdır.
+
+7. Aşama Veri setlerinin dosya uzantılarının farklı olması sistemin ilk kurgusu noktasında dezavantaj oluşturmaktadır. *.csv formatına veri setlerini ayarlamalıyız.
+
+8. Aşama 
 
 
     
