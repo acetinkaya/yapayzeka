@@ -20,18 +20,23 @@
     Veri Seti Kaynağı : İBB Açık Veri Portalı, Veri Seti Linki-->> [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/hourly-public-transport-data-set)
     ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/2024-Istanbul-TopluTasima.png)
 
-
    Referans: İBB BELBİM A.Ş. (2024). İlçe Bazında Su Tüketim Miktarı (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İStanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/hourly-public-transport-data-set (Erişim Tarihi: 01.06.2024)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-7. İstanbulun Çöpünden Geri Kazanım Miktarı ve çöpten elde edilen enerjinin Yapay Zeka Algoritmalarıyla İşlenerek Analizler Ortaya Çıkarılması
+4. İstanbulun Çöpünden Geri Kazanım Miktarı ve çöpten elde edilen enerjinin Yapay Zeka Algoritmalarıyla İşlenerek Analizler Ortaya Çıkarılması
     Veri Seti Kaynağı : İBB Açık Veri Portalı, Veri Seti Linki-->> [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari)
     ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/2024-Istanbul-Cop.png)
-   https://kaggle.com (Erişim Tarihi: 05.05.2020)
 
-9. İstanbulun Trafiğinden elde edilen verilerle günlük araç sayısı, araçların türleri, araçların ortalama hızları ve istikamet bilgilerini Yapay Zeka Algoritmalarıyla İşlenerek Analizlerin Ortaya Çıkarılması
+   Referans: İBB Çevre Koruma ve Kontrol Dairesi Başkanlığı (2024). Atıktan Geri Kazanım Miktarları (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İStanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari (Erişim Tarihi: 15.06.2024)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5. İstanbulun Trafiğinden elde edilen verilerle günlük araç sayısı, araçların türleri, araçların ortalama hızları ve istikamet bilgilerini Yapay Zeka Algoritmalarıyla İşlenerek Analizlerin Ortaya Çıkarılması
     Veri Seti Kaynağı : İBB Açık Veri Portalı, Veri Seti Linki-->> [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/goruntu-isleme-yoluyla-elde-edilen-arac-verisii)
     ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/2024-Istanbul-AracSayisi.png)
+
+   Referans: İBB İSBAK A.Ş. (2024). Görüntü İşleme Yoluyla Elde Edilen Araç Verisi (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İstanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/goruntu-isleme-yoluyla-elde-edilen-arac-verisii (Erişim Tarihi: 25.06.2024)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
-https://kaggle.com (Erişim Tarihi: 05.05.2020)
