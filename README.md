@@ -53,4 +53,3 @@
    Referans: İBB İSBAK A.Ş. (2024). Görüntü İşleme Yoluyla Elde Edilen Araç Verisi (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İstanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/goruntu-isleme-yoluyla-elde-edilen-arac-verisii (Erişim Tarihi: 25.06.2024)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   
