@@ -14,3 +14,4 @@
 
 5. İstanbulun Trafiğinden elde edilen verilerle günlük araç sayısı, araçların türleri, araçların ortalama hızları ve istikamet bilgilerini Yapay Zeka Algoritmalarıyla İşlenerek Analizlerin Ortaya Çıkarılması
     Veri Seti Kaynağı : İBB Açık Veri Portalı, Veri Seti Linki-->> [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/goruntu-isleme-yoluyla-elde-edilen-arac-verisii)
+   [https://github.com/acetinkaya/yapayzeka/blob/main/2024-Istanbul-Trafik.png]
