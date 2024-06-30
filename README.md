@@ -69,11 +69,6 @@
 
 6. Aşama -> Yüklenen veri setleri aşağıdaki görsel üzerindeki gibi drive alanında olmalıdır.
 
-7. Aşama Veri setlerinin dosya uzantılarının farklı olması sistemin ilk kurgusu noktasında dezavantaj oluşturmaktadır. *.csv formatına veri setlerini ayarlamalıyız.
+7. Aşama -> Veri setlerinin dosya uzantılarının farklı olması sistemin ilk kurgusu noktasında dezavantaj oluşturmaktadır. *.csv formatına veri setlerini ayarlamalıyız.
 
-8. Aşama 
-
-
-    
-
-
+8. Aşama -> 
