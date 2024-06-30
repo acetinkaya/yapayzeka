@@ -10,7 +10,7 @@
 * Kurumlarımızın verilerine akademinin işbirliği - aracılığı ile çözümlerin ortaya koyabilmesi
 * Ülkemizin Açık Kaynak Veri Paylasımı noktasındaki çalışmaları dünyaya tanıtma ve duyurma
 * Açık kaynak verinin işlenmesinde işlem aşamaları
-* 
+* Etkileşimli Çalışma ile Yapay Zeka Algoritmalarının Sistemsel Bütünlüğünü Öğrenme
 
 
 
