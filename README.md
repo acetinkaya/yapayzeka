@@ -9,4 +9,5 @@
 3. İstanbulun Saatlik Toplu Ulaşım sistemindeki yolculuk ve yolcu verilerinin Yapay Zeka Teknikleriyle İşlenerek Analizler Ortaya Çıkarılması
     Veri Seti Kaynağı : İBB Açık Veri Portalı, Veri Seti Linki-->> [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/hourly-public-transport-data-set)
 
-4. 
+4. İstanbulun Çöpünden Geri Kazanım Miktarı ve çöpten elde edilen enerjinin Yapay Zeka Teknikleriyle İşlenerek Analizler Ortaya Çıkarılması
+    Veri Seti Kaynağı : İBB Açık Veri Portalı, Veri Seti Linki-->> [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari)
