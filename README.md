@@ -70,8 +70,8 @@
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli03.png)
 
 
-5. Aşama -> Google Drive-> YapayZekaIstanbul klasörü içerisie içerisine "VeriSetleri" ismiyle yeni bir klasör oluşturup indirdiğiniz veri setlerini bu bölüme yüklemesini yapınız.
-![alternatif metin](
+5. Aşama -> Google Drive-> YapayZekaIstanbul klasörü içerisie içerisine "VeriSetleri" ismiyle yeni bir klasör oluşturup indirdiğiniz veri setlerini bu klasöre yüklemesini yapınız.
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli1.png)
 
 
 6. Aşama -> Yüklenen veri setleri aşağıdaki görsel üzerindeki gibi drive alanında olmalıdır.
