@@ -64,6 +64,9 @@
 2. Aşama -> Google Drive Sistemini Aktif Edin
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli01.png)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 3. Aşama -> Google Drive Bağlantı Süreçlerini Gerçekleştirin
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli02.png)
 
