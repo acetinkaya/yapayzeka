@@ -117,16 +117,24 @@ os.chdir('/content/drive/My Drive/YapayZekaIstanbul')
 9. Aşama -> Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini gerçekleştiriyoruz.
 
 import pandas as pd
+
 VeriSetiYolu = '/content/drive/My Drive/YapayZekaIstanbul/VeriSetleri'
 
 # Excel dosyalarını CSV formatına çevirme
+
 for file in os.listdir(VeriSetiYolu):                         # Klasördeki tüm dosyaları listele
+
     if file.endswith(('.xlsx', '.xls')):                     # Sadece Excel dosyalarını seç
+    
         df = pd.read_excel(os.path.join(VeriSetiYolu, file))  # Excel dosyasını pandas ile oku
+        
         df.to_csv(os.path.join(VeriSetiYolu, file.rsplit('.', 1)[0] + '.csv'), index=False)
+        
                                                              # DataFrame'i CSV formatında kaydet
         print(f"{file} dosyası CSV formatına çevrildi.")     # Çevrim İşlemi Çıktısı
-        # İşlem tamamlandığında kaç tane excel dosyası var ise o kadar *.csv formatına çevildiğinin bilgisini almaktayız
+        
+        # İşlem tamamlandığında kaç tane excel dosyası var ise o kadar *.csv formatına çevildiğinin
+        # bilgisini almaktayız
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli06.png)
 
