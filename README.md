@@ -138,25 +138,29 @@ for file in os.listdir(VeriSetiYolu):                         # Klasördeki tüm
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-10. Aşama ->
+10. Aşama -> Bu aşamada yazılan kod derlendiğinde aşağıdaki gibi ekran çıktısı gelmektedir.
+
+ilce-baznda-su-tuketim-miktar-2015-2022.xlsx dosyası CSV formatına çevrildi.
+atktan-geri-kazanm-miktarlar.xlsx dosyası CSV formatına çevrildi.
+temmuz-ay-goruntu-ileme-yoluyla-elde-edilen-gunluk-arac-verisi.xlsx dosyası CSV formatına çevrildi. 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli07.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-11. Aşama ->
+11. Aşama -> Drive alanı kontrol edildiğinde 3 adet olan *.xlsx veri seti *.csv dosyasına çevrilmiştir.  
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli08.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-12. Aşama ->
+12. Aşama -> Aşağıdaki resimde *.csv 5 adet dosya drive alanında mevcut hale gelmiştir.
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli09.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-13. Aşama ->
+13. Aşama -> Bu aşamda verileri elde ettiğimize göre, yapay zeka uygulamalarında kullanılan kütüphanelerin isimleri ve kod tanımlamaları aşağıdadır. 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli10.png)
 
