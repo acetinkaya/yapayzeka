@@ -94,20 +94,27 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-7. Aşama ->
+7. Aşama -> Bu aşamada Google Colab'a Google Drive Bağlantısı yapılarak verilerin çekileceği drive adresine erişim izni verilmektedir. Aşağıdaki 2 satır kod ile bu işlem gerçekleştirilmektedir.
+
+from google.colab import drive
+drive.mount('/content/drive')
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli04.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-8. Aşama ->
+8. Aşama -> Bu aşamada Google Drive'da ki klasöre erişim linkini işleme alıyoruz. Aşağıdaki 3 satır kod ile bu işlem gerçekleştirilmektedir.
+
+import os
+os.chdir('/content/drive/My Drive/YapayZekaIstanbul')
+!pwd
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli05.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-9. Aşama ->
+9. Aşama -> Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini gerçekleştiriyoruz. 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli06.png)
 
