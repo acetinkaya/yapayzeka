@@ -56,8 +56,42 @@
 
 1. Aşama -> İnternette Bulunan Veri Seti Dosyalarını Bilgisayarınızda Masaüstünde "YapayZekaIstanbul" ismiyle acacağınız yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli0.png)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## (1. ARA ) VERİ SETİ BULMA İŞLEMLERİ TAMAMLANMIŞTIR. ŞİMDİ ÇALIŞMA ORTAMININ HAZIRLANAMSI İŞLEMLERİ GERÇEKLEŞTİRİLECEKTİR. 
+
+2. Aşama -> Google Drive Sistemini Aktif Edin
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli01.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Aşama -> Google Drive Bağlantı Süreçlerini Gerçekleştirin
+   
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli02.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+4. Aşama -> Google Drive Alanında "YapayZekaIstanbul" ismiyle yeni klasör oluşturun
+   
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli03.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+5. Aşama -> Google Drive-> YapayZekaIstanbul klasörü içerisie içerisine "VeriSetleri" ismiyle yeni bir klasör oluşturup indirdiğiniz veri setlerini bu klasöre yüklemesini yapınız.
+   
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli1.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6. Aşama -> Veri setlerinin dosya uzantılarının farklı olması sistemin ilk kurgusu noktasında dezavantaj oluşturmaktadır. *.csv formatına veri setlerini ayarlamalıyız.
+   
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli2.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## (1. ARA ) VERİ SETİ BULMA ve SİSTEME YÜKLEME İŞLEMLERİ TAMAMLANMIŞTIR. ŞİMDİ ÇALIŞMA ORTAMININ HAZIRLANAMSI İŞLEMLERİ GERÇEKLEŞTİRİLECEKTİR. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Çalışma Ortamının Hazırlanması - GOOGLE COLAB ve GOOGLE DRIVE
@@ -115,45 +149,6 @@
 
 
 
-# Veri Setleri Üzerinde Gerçekleştirilecek İşlemler
-
-1. Aşama -> Dosyaları Bilgisayarınızda Masaüstünde YapayZekaIstanbul ismiyle acacağınız klasöre yüklemesini yapınız
-
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli0.png)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-2. Aşama -> Google Drive Sistemini Aktif Edin
-
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli01.png)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-3. Aşama -> Google Drive Bağlantı Süreçlerini Gerçekleştirin
-   
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli02.png)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-4. Aşama -> Google Drive Alanında "YapayZekaIstanbul" ismiyle yeni klasör oluşturun
-   
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli03.png)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-5. Aşama -> Google Drive-> YapayZekaIstanbul klasörü içerisie içerisine "VeriSetleri" ismiyle yeni bir klasör oluşturup indirdiğiniz veri setlerini bu klasöre yüklemesini yapınız.
-   
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli1.png)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-6. Aşama -> Veri setlerinin dosya uzantılarının farklı olması sistemin ilk kurgusu noktasında dezavantaj oluşturmaktadır. *.csv formatına veri setlerini ayarlamalıyız.
-   
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli2.png)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 7. Aşama -> Bu aşamada Google Colab'a Google Drive Bağlantısı yapılarak verilerin çekileceği drive adresine erişim izni verilmektedir. Aşağıdaki 2 satır kod ile bu işlem gerçekleştirilmektedir.
 
