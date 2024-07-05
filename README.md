@@ -71,7 +71,7 @@
 
 2. Aşama -> 
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-1.png)
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-2.png)
 
 
 
