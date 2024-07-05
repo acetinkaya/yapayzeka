@@ -51,12 +51,18 @@
     ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/2024-Istanbul-AracSayisi.png)
 
    Referans: İBB İSBAK A.Ş. (2024). Görüntü İşleme Yoluyla Elde Edilen Araç Verisi (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İstanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/goruntu-isleme-yoluyla-elde-edilen-arac-verisii (Erişim Tarihi: 25.06.2024)
+   
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+1. Aşama -> İnternette Bulunan Veri Seti Dosyalarını Bilgisayarınızda Masaüstünde "YapayZekaIstanbul" ismiyle acacağınız yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## (1. ARA ) VERİ SETİ BULMA İŞLEMLERİ TAMAMLANMIŞTIR. ŞİMDİ ÇALIŞMA ORTAMININ HAZIRLANAMSI İŞLEMLERİ GERÇEKLEŞTİRİLECEKTİR. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Çalışma Ortamının Hazırlanması - GOOGLE COLAB ve GOOGLE DRIVE
 
-1. Aşama -> Dosyaları Bilgisayarınızda Masaüstünde YapayZekaIstanbul ismiyle acacağınız klasöre yüklemesini yapınız
+1. Aşama -> 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-1.png)
 
