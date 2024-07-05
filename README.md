@@ -183,23 +183,21 @@ kodları ile bağlantı kurgu sürecine başlıyoruz.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-9. Aşama -> Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini gerçekleştiriyoruz.
+3.3. Aşama -> Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini gerçekleştiriyoruz.
 
+        import pandas as pd
 
-import pandas as pd
+        VeriSetiYolu = '/content/drive/My Drive/YapayZekaIstanbul/VeriSetleri'
 
-VeriSetiYolu = '/content/drive/My Drive/YapayZekaIstanbul/VeriSetleri'
+        for file in os.listdir(VeriSetiYolu):                         # Klasördeki tüm dosyaları listele
 
-for file in os.listdir(VeriSetiYolu):                         # Klasördeki tüm dosyaları listele
-
-    if file.endswith(('.xlsx', '.xls')):                     # Sadece Excel dosyalarını seç
+            if file.endswith(('.xlsx', '.xls')):                     # Sadece Excel dosyalarını seç
     
-        df = pd.read_excel(os.path.join(VeriSetiYolu, file))  # Excel dosyasını pandas ile oku
+                df = pd.read_excel(os.path.join(VeriSetiYolu, file))  # Excel dosyasını pandas ile oku
         
-        df.to_csv(os.path.join(VeriSetiYolu, file.rsplit('.', 1)[0] + '.csv'), index=False)
-        
-                                                             # DataFrame'i CSV formatında kaydet
-        print(f"{file} dosyası CSV formatına çevrildi.")     # Çevrim İşlemi Çıktısı
+                df.to_csv(os.path.join(VeriSetiYolu, file.rsplit('.', 1)[0] + '.csv'), index=False)
+                                                                   # DataFrame'i CSV formatında kaydet
+                print(f"{file} dosyası CSV formatına çevrildi.")     # Çevrim İşlemi Çıktısı
         # İşlem tamamlandığında kaç tane excel dosyası var ise o kadar *.csv formatına çevildiğinin
         # bilgisini almaktayız
 
@@ -207,7 +205,7 @@ for file in os.listdir(VeriSetiYolu):                         # Klasördeki tüm
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-10. Aşama -> Bu aşamada yazılan kod derlendiğinde aşağıdaki gibi ekran çıktısı gelmektedir.
+3.4. Aşama -> Bu aşamada yazılan kod derlendiğinde aşağıdaki gibi ekran çıktısı gelmektedir.
 
 ilce-baznda-su-tuketim-miktar-2015-2022.xlsx dosyası CSV formatına çevrildi.
 atktan-geri-kazanm-miktarlar.xlsx dosyası CSV formatına çevrildi.
@@ -217,19 +215,19 @@ temmuz-ay-goruntu-ileme-yoluyla-elde-edilen-gunluk-arac-verisi.xlsx dosyası CSV
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-11. Aşama -> Drive alanı kontrol edildiğinde 3 adet olan *.xlsx veri seti *.csv dosyasına çevrilmiştir.  
+3.5. Aşama -> Drive alanı kontrol edildiğinde 3 adet olan *.xlsx veri seti *.csv dosyasına çevrilmiştir.  
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli08.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-12. Aşama -> Aşağıdaki resimde *.csv 5 adet dosya drive alanında mevcut hale gelmiştir.
+3.6. Aşama -> Aşağıdaki resimde *.csv 5 adet dosya drive alanında mevcut hale gelmiştir.
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli09.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-13. Aşama -> Bu aşamda verileri elde ettiğimize göre, yapay zeka uygulamalarında kullanılan kütüphanelerin isimleri ve kod tanımlamaları aşağıdadır. 
+3.7. Aşama -> Bu aşamda verileri elde ettiğimize göre, yapay zeka uygulamalarında kullanılan kütüphanelerin isimleri ve kod tanımlamaları aşağıdadır. 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli10.png)
 
