@@ -208,7 +208,9 @@ kodları ile bağlantı kurgu sürecine başlıyoruz.
 3.4. Aşama -> Bu aşamada yazılan kod derlendiğinde aşağıdaki gibi ekran çıktısı gelmektedir.
 
 ilce-baznda-su-tuketim-miktar-2015-2022.xlsx dosyası CSV formatına çevrildi.
+
 atktan-geri-kazanm-miktarlar.xlsx dosyası CSV formatına çevrildi.
+
 temmuz-ay-goruntu-ileme-yoluyla-elde-edilen-gunluk-arac-verisi.xlsx dosyası CSV formatına çevrildi. 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli07.png)
