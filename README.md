@@ -146,15 +146,21 @@
 ## (2. ARA ) GOOGLE DRIVE ve GOOGLE COLAB SİSTEMLERİNİN BAĞLANTISI GERÇEKLEŞTİRİLMİŞTİR. ŞİMDİ YAPAY ZEKA (YZ) KURGUSUNUN OLUŞTURULMASI ve KODLANMASI SÜRECİNE GEÇİLECEKTİR!!
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+1. Aşama -> Bu aşamada Google Colab'a Google Drive Bağlantısı yapılarak verilerin çekileceği drive adresine erişim izni verilmektedir. Aşağıdaki 2 satır kod ile bağlantı işlemi kurulmadan önce örnek yazım ve kod çıktısı alma işlemini tamamlıyoruz.
 
+        print("Merhaba, Avcılar!")
 
+ve 
 
+        import sys
+        print(sys.version)
 
+kodları ile bağlantı kurgu sürecine başlıyoruz. 
 
-7. Aşama -> Bu aşamada Google Colab'a Google Drive Bağlantısı yapılarak verilerin çekileceği drive adresine erişim izni verilmektedir. Aşağıdaki 2 satır kod ile bu işlem gerçekleştirilmektedir.
+        from google.colab import drive
+        
+        drive.mount('/content/drive')
 
-from google.colab import drive
-drive.mount('/content/drive')
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli04.png)
 
