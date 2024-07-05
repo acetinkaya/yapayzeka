@@ -54,39 +54,39 @@
    
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1. Aşama -> İnternette Bulunan Veri Seti Dosyalarını Bilgisayarınızda Masaüstünde "YapayZekaIstanbul" ismiyle acacağınız yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
+1.1. Aşama -> İnternette Bulunan Veri Seti Dosyalarını Bilgisayarınızda Masaüstünde "YapayZekaIstanbul" ismiyle acacağınız yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli0.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2. Aşama -> Google Drive Sistemini Aktif Edin
+1.2. Aşama -> Google Drive Sistemini Aktif Edin
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli01.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3. Aşama -> Google Drive Bağlantı Süreçlerini Gerçekleştirin
+1.3. Aşama -> Google Drive Bağlantı Süreçlerini Gerçekleştirin
    
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli02.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-4. Aşama -> Google Drive Alanında "YapayZekaIstanbul" ismiyle yeni klasör oluşturun
+1.4. Aşama -> Google Drive Alanında "YapayZekaIstanbul" ismiyle yeni klasör oluşturun
    
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli03.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-5. Aşama -> Google Drive-> YapayZekaIstanbul klasörü içerisie içerisine "VeriSetleri" ismiyle yeni bir klasör oluşturup indirdiğiniz veri setlerini bu klasöre yüklemesini yapınız.
+1.5. Aşama -> Google Drive-> YapayZekaIstanbul klasörü içerisie içerisine "VeriSetleri" ismiyle yeni bir klasör oluşturup indirdiğiniz veri setlerini bu klasöre yüklemesini yapınız.
    
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-6. Aşama -> Veri setlerinin dosya uzantılarının farklı olması sistemin ilk kurgusu noktasında dezavantaj oluşturmaktadır. *.csv formatına veri setlerini ayarlamalıyız.
+1.6. Aşama -> Veri setlerinin dosya uzantılarının farklı olması sistemin ilk kurgusu noktasında dezavantaj oluşturmaktadır. *.csv formatına veri setlerini ayarlamalıyız.
    
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli2.png)
 
@@ -94,51 +94,51 @@
 ## (1. ARA ) VERİ SETİ BULMA ve DRIVE ALANINA YÜKLEME İŞLEMLERİ TAMAMLANMIŞTIR. ŞİMDİ ÇALIŞMA ORTAMININ HAZIRLANAMSI İŞLEMLERİ GERÇEKLEŞTİRİLECEKTİR. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Çalışma Ortamının Hazırlanması - GOOGLE COLAB ve GOOGLE DRIVE
+# 2. Bölüm -> Çalışma Ortamının Hazırlanması - GOOGLE COLAB ve GOOGLE DRIVE
 
-1. Aşama -> 
+2.1. Aşama -> 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2. Aşama -> 
+2.2. Aşama -> 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-2.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3. Aşama -> 
+2.3. Aşama -> 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-3.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4. Aşama -> 
+2.4. Aşama -> 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-4.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-5. Aşama -> 
+2.5. Aşama -> 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-5.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-6. Aşama -> 
+2.6. Aşama -> 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-6.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-7. Aşama -> 
+2.7. Aşama -> 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-7.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-8. Aşama -> 
+2.8. Aşama -> 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-8.png)
 
@@ -146,9 +146,9 @@
 ## (2. ARA ) GOOGLE DRIVE ve GOOGLE COLAB SİSTEMLERİNİN BAĞLANTISI GERÇEKLEŞTİRİLMİŞTİR. ŞİMDİ YAPAY ZEKA (YZ) KURGUSUNUN OLUŞTURULMASI ve KODLANMASI SÜRECİNE GEÇİLECEKTİR!!
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1. Aşama -> Bu aşamada Google Colab'a Google Drive Bağlantısı yapılarak verilerin çekileceği drive adresine erişim izni verilmektedir. Aşağıdaki 2 satır kod ile bağlantı işlemi kurulmadan önce örnek yazım ve kod çıktısı alma işlemini tamamlıyoruz.
+3. 1. Aşama -> Bu aşamada Google Colab'a Google Drive Bağlantısı yapılarak verilerin çekileceği drive adresine erişim izni verilmektedir. Aşağıdaki 2 satır kod ile bağlantı işlemi kurulmadan önce örnek yazım ve kod çıktısı alma işlemini tamamlıyoruz.
 
-        print("Merhaba, Avcılar!")
+            print("Merhaba, Avcılar!") 
 
 ve 
 
