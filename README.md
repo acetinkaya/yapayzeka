@@ -171,11 +171,13 @@ kodları ile bağlantı kurgu sürecine başlıyoruz.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-8. Aşama -> Bu aşamada Google Drive'da ki klasöre erişim linkini işleme alıyoruz. Aşağıdaki 3 satır kod ile bu işlem gerçekleştirilmektedir.
+3.2. Aşama -> Bu aşamada Google Drive'da ki klasöre erişim linkini işleme alıyoruz. Aşağıdaki 3 satır kod ile bu işlem gerçekleştirilmektedir.
 
-import os
-os.chdir('/content/drive/My Drive/YapayZekaIstanbul')
-!pwd
+    import os
+    
+    os.chdir('/content/drive/My Drive/YapayZekaIstanbul')
+    
+    !pwd
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli05.png)
 
