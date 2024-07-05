@@ -155,6 +155,8 @@ ve
         import sys
         print(sys.version)
 
+![alternatif metin](
+
 kodları ile bağlantı kurgu sürecine başlıyoruz. 
 
         from google.colab import drive
@@ -165,7 +167,6 @@ kodları ile bağlantı kurgu sürecine başlıyoruz.
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli04.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 8. Aşama -> Bu aşamada Google Drive'da ki klasöre erişim linkini işleme alıyoruz. Aşağıdaki 3 satır kod ile bu işlem gerçekleştirilmektedir.
 
