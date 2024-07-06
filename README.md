@@ -305,6 +305,8 @@ Veri Seti İşlemlerinden Sonra-->
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-6.png)
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-7.png)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
