@@ -295,6 +295,12 @@ Görselleştirme işlemine geçilmeden önce veri setinin içeriğini bir incele
 
 3.6. Aşama -> İBB Veri Setinden Elde Edilmesi Gereken Gerçek Görselin Elde Edilmesi (DOĞRU İŞLEMLER İLE ELDE EDİLMESİ GERKEN SONUÇTUR)
 
+Veri Seti İşlemlerinden Sonra-->
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-3.png)
+
+Ön İşleme Yapılmış Veri Setinden Elde Edilmesi Gereken Sonuç-->
+
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-6.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
