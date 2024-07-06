@@ -281,9 +281,9 @@ Görselleştirme işlemine geçilmeden önce veri setinin içeriğini bir incele
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.4. Aşama -> Veri Seti Dönüşüm İşlemleri Neticesinde Elde Edilen Dosyanın İçeriği
+3.4. Aşama -> Veri Seti Dönüşüm İşlemleri Neticesinde Elde Edilen Dosyanın İçeriği (CSV formatına dosya okuma için Notepad programı ile dosya içeriği açılabilir)
 
-![alternatif metin](asd
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-2.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
