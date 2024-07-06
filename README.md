@@ -277,7 +277,7 @@ Veri Seti Görseli:
 
 Görselleştirme işlemine geçilmeden önce veri setinin içeriğini bir incelemesini yapalım!!
 
-![alternatif metin](asd
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
