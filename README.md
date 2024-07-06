@@ -248,17 +248,34 @@ Amac: Bu etkinlikte İBB nin elinde olan atıktan geri kazanılan miktarın veri
 Bu inceleme neticesinde elde edeceğimiz veriler ile;
 
 1. Atıktan en fazla hangi alanda kazınım olduğununun tespiti yapabiliriz.
+   
 2. Geri dönüşümle elde edilmiş kompost miktarı, malzeme miktarı, üretilen yakıt ve enerji miktarlarının yıllara göre sürecinin analizini yapabiliriz.
+   
 3. Geri dönüşümde gelen miktarın hangi alanda daha verimli olduğunu vurgulayabiliriz.
-4. 
-
-
-
-![alternatif metin](asd
+   
+4. Geri dönüşümde gelen kazancın kazanım oranlarının faaliyet alanları arasında değerlendirilmesini sağlayabiliriz.
+   
+5. Geri dönüşümün yıllara göre analizini yaparak gelecek yıllarda ne kadar bir kazanım olacağını tahminleyebiliriz.
+    
+6. Geri dönüşüm faaliyet alanları içerisinde yatırım işlemlerinin hangi alana yapılması gerektiğinin analizini sağlayabiliriz.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-15. Aşama -> Veri Görselleştirme işlemei için MatplotLib Kütüphanesi kullanılacaktır. 
+3.2 Veri Seti Üzerinde İşlemler
+
+Veri Seti Kaynağı : 
+
+İBB Açık Veri Portalı, Veri Seti Linki-->> [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari)
+
+Veri Seti Görseli:
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/2024-Istanbul-Cop.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3.3. Aşama -> Veri Setinin İçeriğinin Görselleştirmesi işlemei için MatplotLib Kütüphanesi kullanılacaktır. 
+
+Görselleştirme işlemine geçilmeden önce veri setinin içeriğini bir incelemesini yapalım!!
 
 ![alternatif metin](asd
 
