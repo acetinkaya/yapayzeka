@@ -11,6 +11,8 @@
 * Ülkemizin Açık Kaynak Veri Paylasımı noktasındaki çalışmaları dünyaya tanıtma ve duyurma
 * Açık kaynak verinin işlenmesinde işlem aşamaları
 * Etkileşimli Çalışma ile Yapay Zeka Algoritmalarının Sistemsel Bütünlüğünü Öğrenme
+* Yapay Zeka Alanında Sürdürülebilirlik Sağlanması
+* 
 
 
 
