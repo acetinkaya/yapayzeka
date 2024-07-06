@@ -287,9 +287,9 @@ Görselleştirme işlemine geçilmeden önce veri setinin içeriğini bir incele
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-17. Aşama ->
+3.5. Aşama -> Veri Seti üzerinde gerekli işlem aşamalarının ve süreçlerinin gerçekleştirileden görsel sonuç elde edilmesi (HATALI İŞLEM!!!!!!)
 
-![alternatif metin](asd
+![alternatif metin]([asd](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-5.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
