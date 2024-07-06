@@ -1,0 +1,11 @@
+camera_id : Lokasyonda kullanılan kamera id’si
+direction : Kameranın baktığı istikamet
+"intersection / location : Kavşağın konumu (x,y)"
+total : Toplam geçen araç sayısı
+occupancytime_mean : Aracın sensör üzerinde kalma süresi ortalaması (milisaniye cinsinden)
+speed_mean : Araçların hızlarının ortalaması
+Class_id1 : Binek araba sınıfındaki araçların toplamı
+Class_id2 : Ağır taşıt sınıfındaki araçların toplamı
+Class_id3 : Büyük araç sınıfındaki araçların toplamı
+Class_id4 : Otobüs sınıfındaki araçların toplamı
+Class_id5 : İki tekerlekli sınıfındaki araçların toplamı
