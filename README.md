@@ -236,14 +236,16 @@ temmuz-ay-goruntu-ileme-yoluyla-elde-edilen-gunluk-arac-verisi.xlsx dosyası CSV
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli10.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(3. ARA) YAPAY ZEKA (YZ) KURGUSUNUN OLUŞTURULMASI ve KODLANMASI SÜRECİ
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-14. Aşama ->
+3.1 Aşama -> Veri setleri üzerinde verilerin görselleştirilmesi işlemleri başlıyoruz.
 
 ![alternatif metin](asd
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-15. Aşama ->
+15. Aşama -> Veri Görselleştirme işlemei için MatplotLib Kütüphanesi kullanılacaktır. 
 
 ![alternatif metin](asd
 
