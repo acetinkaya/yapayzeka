@@ -239,7 +239,20 @@ temmuz-ay-goruntu-ileme-yoluyla-elde-edilen-gunluk-arac-verisi.xlsx dosyası CSV
 (3. ARA) YAPAY ZEKA (YZ) KURGUSUNUN OLUŞTURULMASI ve KODLANMASI SÜRECİ
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.1 Aşama -> Veri setleri üzerinde verilerin görselleştirilmesi işlemleri başlıyoruz.
+3.1 Aşama -> Veri setleri üzerinde verilerin görselleştirilmesi işlemleri başlıyoruz. Bu bölümde IBB veri setlerinden  "Atıktan Geri Kazanım Miktarları"  veri setini inceleyeceğiz.
+
+Bu veri setinde atıktan geri dönüşümle elde edilmiş kompost miktarı, malzeme miktarı, üretilen yakıt ve enerji miktarları bulunmaktadır.
+
+Amac: Bu etkinlikte İBB nin elinde olan atıktan geri kazanılan miktarın verilerini inceleyeceğiz. 
+
+Bu inceleme neticesinde elde edeceğimiz veriler ile;
+
+1. Atıktan en fazla hangi alanda kazınım olduğununun tespiti yapabiliriz.
+2. Geri dönüşümle elde edilmiş kompost miktarı, malzeme miktarı, üretilen yakıt ve enerji miktarlarının yıllara göre sürecinin analizini yapabiliriz.
+3. Geri dönüşümde gelen miktarın hangi alanda daha verimli olduğunu vurgulayabiliriz.
+4. 
+
+
 
 ![alternatif metin](asd
 
