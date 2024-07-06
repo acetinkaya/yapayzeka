@@ -289,7 +289,12 @@ Görselleştirme işlemine geçilmeden önce veri setinin içeriğini bir incele
 
 3.5. Aşama -> Veri Seti üzerinde gerekli işlem aşamalarının ve süreçlerinin gerçekleştirileden görsel sonuç elde edilmesi (HATALI İŞLEM!!!!!!)
 
-![alternatif metin]([asd](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-5.png)
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-5.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+3.6. Aşama -> İBB Veri Setinden Elde Edilmesi Gereken Gerçek Görselin Elde Edilmesi (DOĞRU İŞLEMLER İLE ELDE EDİLMESİ GERKEN SONUÇTUR)
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-6.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
