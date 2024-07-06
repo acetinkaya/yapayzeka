@@ -281,7 +281,7 @@ Görselleştirme işlemine geçilmeden önce veri setinin içeriğini bir incele
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-16. Aşama ->
+3.4. Aşama -> Veri Seti Dönüşüm İşlemleri Neticesinde Elde Edilen Dosyanın İçeriği
 
 ![alternatif metin](asd
 
