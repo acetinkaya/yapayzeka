@@ -311,11 +311,19 @@ Veri Seti İşlemlerinden Sonra-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.7. -> Veri Görselleme teknikleriyle 
+3.7. -> Veri Görselleme teknikleriyle Doğru İşleml Sürecinin Başlatılması
 
+Sizlerle Paylaşılmış Olan "yz-ikinci-islemler.ipynb" dosyası üzerinde işlemler gerçekleştirilmiştir ve sonuçlarıyla birlikte verilmiştir. Sizlerde aynı işlemleri gerçekleştirerek aynı sonucu elde edilmesi gerekmektedir.
+
+Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sürecinizi kontrol edebilirsiniz. Benim tavsiyem Tüm koda yeniden başlamaktadır. 
+
+Çünkü bunu yapmaz iseniz hatanızı bulamazsınız. Buradaki amac en az hata ile sürecin kontrolünü öğürenmektir.
+
+Şimdi Koda Yeniden başlıyoruz...
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-3.7. -> Veri Görselleme
+
+3.7. -> İşlemler:
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
