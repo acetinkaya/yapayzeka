@@ -345,6 +345,18 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 -----------------
 
+    import os
+    import pandas as pd
+    
+    VeriSetiYolu = '/content/drive/My Drive/YapayZekaIstanbul/VeriSetleri'
+    
+    # VeriSetiYolu içindeki .csv dosyalarını bul ve say
+    csv_dosyaları = [dosya for dosya in os.listdir(VeriSetiYolu) if dosya.endswith('.csv')]
+    
+    # .csv dosya sayısını ekrana yazdır
+    csv_dosya_sayisi = len(csv_dosyaları)
+    print(f"VeriSetiYolu içerisinde {csv_dosya_sayisi} tane .csv dosyası bulunuyor.")
+
 
     
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
