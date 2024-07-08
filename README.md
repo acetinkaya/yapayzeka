@@ -301,15 +301,17 @@ Veri Seti İşlemlerinden Sonra-->
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-3.png)
 
-Ön İşleme Yapılmış Veri Setinden Elde Edilmesi Gereken Sonuç-->
+Ön İşleme Yapılmış Veri Setinden Elde Edilmesi Gereken Gerçek Sonuçlar-->
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-7.png)
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-6.png)
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-8.png)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.7. -> Veri Görselleme
+3.7. -> Veri Görselleme teknikleriyle 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
