@@ -357,7 +357,7 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
     csv_dosya_sayisi = len(csv_dosyaları)
     print(f"VeriSetiYolu içerisinde {csv_dosya_sayisi} tane .csv dosyası bulunuyor.")
 
-
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_2.png)
     
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
