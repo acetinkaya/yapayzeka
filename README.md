@@ -325,7 +325,28 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 3.7. -> İşlemler:
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-3.png)
 
+    print("Merhaba, Avcılar!")
+
+    import sys
+    print(sys.version)
+    
+    #Google Colab'a Google Drive Bağlantısı
+    from google.colab import drive
+    drive.mount('/content/drive')
+
+    #Google Drive'daki Dosyaya Erişim Bağlantısı
+    import os
+    os.chdir('/content/drive/My Drive/YapayZekaIstanbul')
+    !pwd
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_1.png)
+
+-----------------
+
+
+    
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3.7. -> Veri Görselleme
