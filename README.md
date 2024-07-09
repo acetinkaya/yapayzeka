@@ -359,7 +359,8 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_2.png)
 
------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 3.9. -> Veri İşleme Adımları - Veri Seti Okuma
 
     import matplotlib.pyplot as plt
@@ -377,6 +378,8 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_2-1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3.10. -> Veri İşleme Adımları - Veri Seti Okuma
 
 
 
