@@ -460,6 +460,7 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 3.13. -> Veri Görselleme - çıktısı
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_6.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
