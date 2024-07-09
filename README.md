@@ -323,7 +323,7 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.7. -> İşlemler:
+3.8. -> İşlemler:
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-3.png)
 
@@ -360,7 +360,7 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_2.png)
 
 -----------------
-3.7. -> Veri İşleme Adımları - Veri Seti Okuma
+3.9. -> Veri İşleme Adımları - Veri Seti Okuma
 
     import matplotlib.pyplot as plt
     
