@@ -360,12 +360,24 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_2.png)
 
 -----------------
+3.7. -> Veri İşleme Adımları - Veri Seti Okuma
 
+    import matplotlib.pyplot as plt
+    
+    # CSV dosyasını oku
+    dosya_yolu = '/content/drive/My Drive/YapayZekaIstanbul/VeriSetleri/atiktangerikazanimmiktari.csv'
+    csv_dosya = pd.read_csv(dosya_yolu)
+    
+    print(csv_dosya)
+    
+![alternatif metin](
+    
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_2-1.png)
 
     
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.7. -> Veri Görselleme
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
