@@ -493,3 +493,45 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_8.png)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3.16. -> Veri Görselleme - Tüm Verilerin Bar Kod İle Veri Seti Görselleştirilmesi - Bar plotları çizmek için kod hazırlığı
+    
+    bar_width = 0.2
+    index = range(len(yil_bilgisi))
+    
+    plt.figure(figsize=(16, 14))
+    
+    # Kompost Miktarı Bar Plot
+    plt.bar(index, kompost_miktari, bar_width, label=csv_dosya.columns[1], color='blue')
+    
+    # Geri Dönüştürülen Malzeme Miktarı Bar Plot
+    plt.bar([i + bar_width for i in index], geri_donusturulen_malzeme_miktari, bar_width, label=csv_dosya.columns[2], color='green')
+    
+    # Atıktan Türetilmiş Yakıt Miktarı Bar Plot
+    plt.bar([i + 2 * bar_width for i in index], atik_yakiti_miktari, bar_width, label=csv_dosya.columns[3], color='red')
+    
+    # Çöp Gazından Üretilen Elektrik Enerjisi Miktarı Bar Plot
+    plt.bar([i + 3 * bar_width for i in index], elektrik_enerjisi_miktari, bar_width, label=csv_dosya.columns[4], color='purple')
+    
+    # X eksenini belirli yıllara ayarla
+    plt.xlabel('Yıl')
+    plt.ylabel('Miktar')
+    plt.title('Atıktan Geri Kazanım Miktarları')
+    plt.xticks([i + 1.5 * bar_width for i in index], yil_bilgisi)
+    plt.legend(["Uretilen Kompost Miktarı [ton]", "IBB Tesislerinde Geri Dönüştürülen Malzeme Miktarı [ton]", "Atiktan Turetilmis Yakit Miktarı [ton]", "Cop Gazindan Uretilen Elektrik Enerjisi Miktarları [MWh]"])
+    plt.grid(True)
+    
+    plt.tight_layout()
+    plt.show()
+
+
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_8.png)
+
+
+
+
+
+
+
