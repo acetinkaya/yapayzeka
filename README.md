@@ -533,4 +533,4 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_10.png)
 
-----------------------------------------------------<<<<<<---------VERİ İŞLEMESİ ve GÖRSELLEŞTİRMESİ SÜREÇLERİ TAMAMLANMIŞTIR--->>>>>>------------------------------------------------------------------------------------------------------
+-----------<<<<<<---------VERİ İŞLEMESİ ve GÖRSELLEŞTİRMESİ SÜREÇLERİ TAMAMLANMIŞTIR--->>>>>>---------------------------------------------------------
