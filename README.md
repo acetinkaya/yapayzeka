@@ -491,5 +491,5 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 3.15. -> Veri Görselleme - Tüm Verilerin Birleştirilmesi Sonucu
 
-
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_8.png)
 
