@@ -464,7 +464,27 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.7. -> Veri Görselleme
+3.7. -> Veri Görselleme - Tüm Verilerin Birleştirilmesi İçin Çizim Sürecini Gerçekleştiriyoruz.
+
+    plt.figure(figsize=(20, 18))
+    
+    plt.plot(yil_bilgisi, kompost_miktari, marker='o', label=csv_dosya.columns[2], color='blue')
+    plt.plot(yil_bilgisi, geri_donusturulen_malzeme_miktari, marker='o', label=csv_dosya.columns[3], color='green')
+    plt.plot(yil_bilgisi, atik_yakiti_miktari, marker='o', label=csv_dosya.columns[4], color='red')
+    plt.plot(yil_bilgisi, elektrik_enerjisi_miktari, marker='o', label=csv_dosya.columns[5], color='purple')
+    
+    # Grafiği özelleştir
+    plt.title('IBB nin Yıllara Göre Atıktan Elde Edilen Verilerin Görselleştirilmesi')
+    plt.xlabel('Yıl Bilgisi')
+    plt.ylabel('Üretim Miktarı')
+    plt.xticks(yil_bilgisi)
+    #plt.legend()
+    plt.legend(["Uretilen Kompost Miktarı [ton]", "IBB Tesislerinde Geri Dönüştürülen Malzeme Miktarı [ton]", "Atiktan Turetilmis Yakit Miktarı [ton]", "Cop Gazindan Uretilen Elektrik Enerjisi Miktarları [MWh]"])
+    plt.grid(True)
+    
+    # Grafiği göster
+    plt.show()
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
