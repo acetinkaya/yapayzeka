@@ -387,8 +387,22 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.11. -> Veri Görselleme
+3.11. -> Veri İşleme Adımları - Verileri Çoklu Sütün Okuma
 
+    yil_bilgisi = csv_dosya.iloc[:, 1]
+    kompost_miktari = csv_dosya.iloc[:, 2]
+    geri_donusturulen_malzeme_miktari = csv_dosya.iloc[:, 3]
+    atik_yakiti_miktari = csv_dosya.iloc[:, 4]
+    elektrik_enerjisi_miktari = csv_dosya.iloc[:, 5]
+    
+    print(id)
+    print(yil_bilgisi)
+    print(kompost_miktari)
+    print(geri_donusturulen_malzeme_miktari)
+    print(atik_yakiti_miktari)
+    print(elektrik_enerjisi_miktari)
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_4.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
