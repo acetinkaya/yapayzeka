@@ -464,7 +464,7 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.7. -> Veri Görselleme - Tüm Verilerin Birleştirilmesi İçin Çizim Sürecini Gerçekleştiriyoruz.
+3.14. -> Veri Görselleme - Tüm Verilerin Birleştirilmesi İçin Çizim Sürecini Gerçekleştiriyoruz.
 
     plt.figure(figsize=(20, 18))
     
@@ -485,9 +485,11 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
     # Grafiği göster
     plt.show()
 
-
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_7.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
