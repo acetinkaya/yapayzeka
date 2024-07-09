@@ -529,12 +529,8 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.16. -> Veri Görselleme - Tüm Verilerin Bar Kod İle Veri Seti Görselleştirilmesi - Bar plotları çizmek için kod hazırlığı
+3.17. -> Veri Görselleme - Tüm Verilerin Bar Kod İle Veri Seti Görselleştirilmesi - Sonucn Oluştulması
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_10.png)
 
-
-
-
-
-
-
+----------------------------------------------------<<<<<<---------VERİ İŞLEMESİ ve GÖRSELLEŞTİRMESİ SÜREÇLERİ TAMAMLANMIŞTIR--->>>>>>------------------------------------------------------------------------------------------------------
