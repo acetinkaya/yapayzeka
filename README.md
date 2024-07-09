@@ -370,7 +370,9 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
     
     print(csv_dosya)
     
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_2.png)
+
+##Okunan Veri Seti İçeriği
     
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_2-1.png)
 
