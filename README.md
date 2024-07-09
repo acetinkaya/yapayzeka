@@ -14,8 +14,6 @@
 * Yapay Zeka Alanında Sürdürülebilirlik Sağlanması
 * 
 
-
-
 1. İstanbulun İlçeler Genelinde Günlük Su Tüketimlerinin Yapay Zeka Algoritmalarıyla İşlenerek Analizler Ortaya Çıkarılması
     Veri Seti Kaynağı : İBB Açık Veri Portalı,  [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/ilce-bazinda-su-tuketim-miktari)
     ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/2024-Istanbul-Su.png)
