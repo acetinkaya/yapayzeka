@@ -387,7 +387,7 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.11. -> Veri İşleme Adımları - Verileri Çoklu Sütün Okuma
+3.11. -> Veri İşleme Adımları - Verileri Çoklu Sütün Okuma İşlemi
 
     yil_bilgisi = csv_dosya.iloc[:, 1]
     kompost_miktari = csv_dosya.iloc[:, 2]
@@ -406,8 +406,55 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.7. -> Veri Görselleme
+3.12. -> Veri Görselleme - İlk sütunu x ekseni olarak kullanarak dört ayrı grafik çizelim
 
+    plt.figure(figsize=(20, 18))  # Boyutlar inch cinsinden çizimleri olur.
+    # Genişlik 20 inch, Yükseklik: 18 inch
+    # Genişlik: 20 inch = 20 * 2.54 cm ≈ 50.8 cm
+    # Yükseklik: 18 inch = 18 * 2.54 cm ≈ 45.72 cm
+    
+    # Kompost Miktarı Grafiği
+    # Kompost, organik maddelerin daha basit organik ve inorganik maddelere ayrıştırılması işlemidir.
+    plt.subplot(2, 2, 1)
+    plt.plot(yil_bilgisi, kompost_miktari, marker='o', color='blue')
+    plt.title('Uretilen Kompost Miktarı [ton]')
+    plt.xlabel('Yıl')
+    plt.ylabel(csv_dosya.columns[2])
+    plt.xticks(yil_bilgisi)  # X eksenine sadece belirli yılları ekle
+    plt.grid(True)
+    
+    # Geri Dönüştürülen Malzeme Miktarı Grafiği
+    plt.subplot(2, 2, 2)
+    plt.plot(yil_bilgisi, geri_donusturulen_malzeme_miktari, marker='o', color='green')
+    plt.title('IBB Tesislerinde Geri Dönüştürülen Malzeme Miktarı [ton]')
+    plt.xlabel('Yıl')
+    plt.ylabel(csv_dosya.columns[3])
+    plt.xticks(yil_bilgisi)  # X eksenine sadece belirli yılları ekle
+    plt.grid(True)
+    
+    # Atıktan Türetilmiş Yakıt Miktarı Grafiği
+    plt.subplot(2, 2, 3)
+    plt.plot(yil_bilgisi, atik_yakiti_miktari, marker='o', color='red')
+    plt.title('Atiktan Turetilmis Yakit Miktarı [ton]')
+    plt.xlabel('Yıl')
+    plt.ylabel(csv_dosya.columns[4])
+    plt.xticks(yil_bilgisi)  # X eksenine sadece belirli yılları ekle
+    plt.grid(True)
+    
+    # Çöp Gazından Üretilen Elektrik Enerjisi Miktarları Grafiği
+    plt.subplot(2, 2, 4)
+    plt.plot(yil_bilgisi, elektrik_enerjisi_miktari, marker='o', color='purple')
+    plt.title('Cop Gazindan Uretilen Elektrik Enerjisi Miktarları [MWh]')
+    plt.xlabel('Yıl')
+    plt.ylabel(csv_dosya.columns[5])
+    plt.xticks(yil_bilgisi)  # X eksenine sadece belirli yılları ekle
+    plt.grid(True)
+    
+    # Grafikleri yerleştir ve göster
+    plt.tight_layout()
+    plt.show()
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_5.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
