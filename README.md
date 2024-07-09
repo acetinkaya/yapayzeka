@@ -525,9 +525,12 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
     plt.tight_layout()
     plt.show()
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_9.png)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_8.png)
+3.16. -> Veri Görselleme - Tüm Verilerin Bar Kod İle Veri Seti Görselleştirilmesi - Bar plotları çizmek için kod hazırlığı
+
 
 
 
