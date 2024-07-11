@@ -100,7 +100,7 @@
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-1.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-2.png)
 
 ![alternatif metin](
 
