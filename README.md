@@ -102,6 +102,8 @@
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-2.png)
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-3.png)
+
 ![alternatif metin](
 
 
