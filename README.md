@@ -574,11 +574,17 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 ## (3. ARA ) VERİ SETİ BULMA ve DRIVE ALANINA YÜKLEME İŞLEMLERİ TAMAMLANMIŞTIR. ŞİMDİ ÇALIŞMA ORTAMININ HAZIRLANAMSI İŞLEMLERİ GERÇEKLEŞTİRİLECEKTİR. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 4. Bölüm -> Yapay Zeka Uygulamaı Kapsamında Veri Seti Üzerinde 
+# 4. Bölüm -> Yapay Zeka Uygulaması Kapsamında Veri Seti Üzerinde Tahmin Uygulamasının Geliştirilmesi - Gerçekleştirilmesi
+
+
+
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Bu Yapay Zeka Uygulama Çalışmasında Kullanılan Referans Kaynaklar:
+## Bu Çalışmayı Oluşturulması İçin Kullanılan Referans Kaynaklar: 
+
+NOT: Bu kitaplar ülkemizin yapay zeka alanında ortaya çıkardığı çalışmalardan önemli kaynaklardır. Her yazılımcının, mezun ve / veye öğrencilerinin mutlaka kütüphanelerinde olması gereken kitaplardır.  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Prof. Dr. Vasıf Nabiyev, "Teoriden Uygulamalara Algoritmalar", Seçkin Yayınları, Ankara, 2011.
