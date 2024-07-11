@@ -96,13 +96,16 @@
 
 # 2. Bölüm -> Çalışma Ortamının Hazırlanması - GOOGLE COLAB ve GOOGLE DRIVE
 
-2.1. Aşama -> 
+2.1. Aşama -> GOOGLE COLAB ve GOOGLE DRIVE YAPILANDIRMASI
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-1.png)
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2.2. Aşama -> 
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-1.png)
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-9.png)
 
