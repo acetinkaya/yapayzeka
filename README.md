@@ -20,6 +20,11 @@
 
 # Giriş: Algoritma ve Programlamanın Önemi
 
+![alternatif metin](
+
+
+
+
 <--Programlama Dillerine Göre Döngü Tipleri-->
 
 C ve C++; while, do while ve for
@@ -29,6 +34,8 @@ C#; while, do-while, for ve foreach
 Python; While,  for, range, len ve in
 
 Java; while, do-while ve for 
+
+![alternatif metin](
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
