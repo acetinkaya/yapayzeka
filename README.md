@@ -576,7 +576,7 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Yapay Zeka Referans Kaynaklar:
+Bu Yapay Zeka Uygulama Çalışmasında Kullanılan Referans Kaynaklar:
 
 Prof. Dr. Vasıf Nabiyev, "Teoriden Uygulamalara Algoritmalar", Seçkin Yayınları, Ankara, 2011.
 
@@ -616,3 +616,5 @@ Dr. Öğr. Üyesi Selçuk ALP & Arzu KİLİTCİ "Algoritmalar ve Programlamaya G
 
     https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ  
     https://avesis.gelisim.edu.tr/alcetinkaya 
+
+<-- Saygılarımla Öğr. Gör. Ali ÇETİNKAYA - Temmuz 2024 -->
