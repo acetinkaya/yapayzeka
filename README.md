@@ -104,6 +104,14 @@
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-3.png)
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-4.png)
+
+Colaboratory -->
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-5.png)
+
+![alternatif metin](
+
 ![alternatif metin](
 
 
