@@ -582,7 +582,16 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 
 
-...
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Hz. Mevlana'nın Sözleriyle Eğitim serimizi tamamlıyoruz. 
+
+    Mum olmak kolay değildir !! 
+    Işık saçmak için önce yanmak gerekir.
+                              Hz. Mevlana
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Arkadaşlar çalışmalarınızda başarılar dilerim. Öğr. Gör. Ali ÇETİNKAYA
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Bu Çalışmayı Oluşturulması İçin Kullanılan Referans Kaynaklar: 
 
@@ -631,5 +640,5 @@ NOT: Bu kitaplar ülkemizin yapay zeka alanında ortaya çıkardığı çalışm
         https://avesis.gelisim.edu.tr/alcetinkaya
         https://github.com/acetinkaya/
         https://alicetinkaya.site/
-
+    
 <-- Saygılarımla Öğr. Gör. Ali ÇETİNKAYA - Temmuz 2024 -->
