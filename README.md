@@ -98,7 +98,7 @@
 
 2.1. Aşama -> GOOGLE COLAB ve GOOGLE DRIVE YAPILANDIRMASI
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-1.png)
 
 ![alternatif metin](
 
