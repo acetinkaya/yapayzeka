@@ -571,7 +571,7 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 ---------<<<<<<------VERİ İŞLEMESİ ve GÖRSELLEŞTİRMESİ SÜREÇLERİ TAMAMLANMIŞTIR------->>>>>>-------------------
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## (3. ARA ) VERİ SETİ BULMA ve DRIVE ALANINA YÜKLEME İŞLEMLERİ TAMAMLANMIŞTIR. ŞİMDİ ÇALIŞMA ORTAMININ HAZIRLANAMSI İŞLEMLERİ GERÇEKLEŞTİRİLECEKTİR. 
+## (3. ARA ) VERİ SETİ BULMA, DRIVE ALANINA YÜKLEME, GOOGLE COLAB, GOOGLE DRIVE, VERİ İŞLEMESİ ve GÖRSELLEŞTİRMESİ SÜREÇLERİ TAMAMLANMIŞTIR. ŞİMDİ YAPAY ZEKA ALGORİTMALARI İLE TAHMİN UYGULAMASI İŞLEMLERİ GERÇEKLEŞTİRİLECEKTİR. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 4. Bölüm -> Yapay Zeka Uygulaması Kapsamında Veri Seti Üzerinde Tahmin Uygulamasının Geliştirilmesi - Gerçekleştirilmesi
