@@ -110,7 +110,7 @@ Colaboratory -->
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-5.png)
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-6.png)
 
 ![alternatif metin](
 
