@@ -4,7 +4,7 @@
 # İstanbul Büyükşehir Belediyesinin İBB Açık Veri Portalında bulunan gerçek veriler ile Yapay Zeka Algoritmalarının Bütünleştirilerek Tümleşik bir sistemin ortaya çıkarılması
 
 # Amaç: 
-
+* Yapay Zeka çalışmalarında Türkçe literatürün önemi
 * Yapay Zeka ile gerçek verileri işlerken karşılaşılan sorunlara çözümler üretebilme
 * Oluşan çözümlerin gerçek hayat verileri olarak nasıl kullanılabileceği
 * Yapay Zeka kapsamında Bilinç ve Farkındalık oluşturma
