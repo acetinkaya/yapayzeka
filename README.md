@@ -33,9 +33,6 @@ Java; while, do-while ve for
 
 # 1. Bölüm -> Çalışma Ortamının Hazırlanması - GOOGLE COLAB ve GOOGLE DRIVE
 
-
-Bölüm 
-
 1.1. İstanbulun İlçeler Genelinde Günlük Su Tüketimlerinin Yapay Zeka Algoritmalarıyla İşlenerek Analizler Ortaya Çıkarılması
     Veri Seti Kaynağı : İBB Açık Veri Portalı,  [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/ilce-bazinda-su-tuketim-miktari)
     ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/2024-Istanbul-Su.png)
@@ -572,6 +569,12 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_10.png)
 
 ---------<<<<<<------VERİ İŞLEMESİ ve GÖRSELLEŞTİRMESİ SÜREÇLERİ TAMAMLANMIŞTIR------->>>>>>-------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## (3. ARA ) VERİ SETİ BULMA ve DRIVE ALANINA YÜKLEME İŞLEMLERİ TAMAMLANMIŞTIR. ŞİMDİ ÇALIŞMA ORTAMININ HAZIRLANAMSI İŞLEMLERİ GERÇEKLEŞTİRİLECEKTİR. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 4. Bölüm -> Yapay Zeka Uygulamaı Kapsamında Veri Seti Üzerinde 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
