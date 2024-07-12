@@ -3,7 +3,7 @@
 
 ## Teknoloji, Yazılım ve Algoritma Geliştirmeyi Gençlere öğretmemiz lazım !!!!!!!
 
-## Geleceğin Bilim İnsanları için gelecek için yazılım konuşacaksak yazılım ile olacak !!!! 
+## Geleceğin Bilim İnsanları için gelecek yazılım ile olacak !!!! 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
