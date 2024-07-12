@@ -5,6 +5,37 @@
 
 ## Geleceğin Bilim İnsanları için gelecek yazılım ile olacak !!!! 
 
+## Sanayinin ihtiyacı olan yazılımcı sınıtısı giderek artacak... 
+
+## Peki Çözüm Ne olacak ?? Çözüm Ne olmalı
+
+## Girişimcilik --> Günümüzde ikiye ayrıldı. 1.-> Yazılım İçeren 2.-> Yazılım İçermeyen olmak üzere
+
+## Günümüz mezunları ile geçmiş mezuniyetler arasında çok fark olacak ... Bu işin bir noktasından Başlanmalı ...
+
+## Öğrencilik günümüzde ikiye ayrıldı.
+
+Sınav -> Dersler -> ----------------------------------Sınavlar ---------------------------------------> Mezuniyet
+                 |                                                                                   |
+                 -> uygulamalar -> sonuçlar -> akademik yayınlar -> proje -> Fikri Mülkiyet Hakları -> 
+
+## Akademik hayatının birinci önceliği diploma verme kurumu olarak değil sizlerin sektör ile arasında köprü olmasıdır.
+
+## Bu köprü sürecinde eğerki temellerinizi yazılım - algoritma - programlama ile desteklemeyenler platform oluşturamayacaktır.
+
+## Bu platformu kendi algoritmaları ile destekleyenler yeni meslekler ortaya çıktıkca adapte olabileceklerdir. 
+
+## İnovasyon ve Teknolojide 
+1. Fikri Mülkiyet Hakkını almak önemlidir,
+2. Sisteme entegre edilebilecek şekilde algoritma geliştirilmesi,
+3. Yaşamınızın merkezinde algoritma geliştirmeyi almak önemlidir.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Bu eğitimler ile birinci hedef: Yapay zeka alanında bir farkındalık oluşturarak sizlerin sıfırdan ileri seviyeye veya teorik olarak öğrenip ilerletemediğiniz yazılım geliştirme becerinizi arttırmaktır.
+
+## Bu eğitimler ile ikinci hedef: Klasik konu algısından sıyrılarak uygulamalar için yapay zeka tabanlı algoritma geliştirmektir.  
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # İstanbul Büyükşehir Belediyesinin İBB Açık Veri Portalında bulunan gerçek veriler ile Yapay Zeka Algoritmalarının Bütünleştirilerek Tümleşik bir sistemin ortaya çıkarılması
