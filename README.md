@@ -11,13 +11,7 @@
 
 ## Girişimcilik --> Günümüzde ikiye ayrıldı. 1.-> Yazılım İçeren 2.-> Yazılım İçermeyen olmak üzere
 
-## Günümüz mezunları ile geçmiş mezuniyetler arasında çok fark olacak ... Bu işin bir noktasından Başlanmalı ...
-
-## Öğrencilik günümüzde ikiye ayrıldı.
-
-Sınav -> Dersler -> ----------------------------------Sınavlar ---------------------------------------> Mezuniyet
-                 |                                                                                   |
-                 -> uygulamalar -> sonuçlar -> akademik yayınlar -> proje -> Fikri Mülkiyet Hakları -> 
+## Öğrencilik günümüzde ikiye ayrıldı. Günümüz mezunları ile geçmiş mezuniyetler arasında çok fark olacak ... Bu işin bir noktasından Başlanılmalı ...
 
 ## Akademik hayatının birinci önceliği diploma verme kurumu olarak değil sizlerin sektör ile arasında köprü olmasıdır.
 
