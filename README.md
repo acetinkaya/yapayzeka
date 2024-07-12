@@ -577,7 +577,7 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_10.png)
 
----------<<<<<<------VERİ İŞLEMESİ ve GÖRSELLEŞTİRMESİ SÜREÇLERİ TAMAMLANMIŞTIR------->>>>>>-------------------
+---------<<<<<<------VERİ İŞLEMESİ ve GÖRSELLEŞTİRMESİ SÜREÇLERİ TAMAMLANMIŞTIR------->>>>>>-----------
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## (3. ARA ) VERİ SETİ BULMA, DRIVE ALANINA YÜKLEME, GOOGLE COLAB, GOOGLE DRIVE, VERİ İŞLEMESİ ve GÖRSELLEŞTİRMESİ SÜREÇLERİ TAMAMLANMIŞTIR. ŞİMDİ YAPAY ZEKA ALGORİTMALARI İLE TAHMİN UYGULAMASI İŞLEMLERİ GERÇEKLEŞTİRİLECEKTİR. 
