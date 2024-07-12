@@ -19,10 +19,10 @@
 
 ## Bu platformu kendi algoritmaları ile destekleyenler yeni meslekler ortaya çıktıkca adapte olabileceklerdir. 
 
-## İnovasyon ve Teknolojide 
-1. Fikri Mülkiyet Hakkını almak önemlidir,
-2. Sisteme entegre edilebilecek şekilde algoritma geliştirilmesi,
-3. Yaşamınızın merkezinde algoritma geliştirmeyi almak önemlidir.
+## Yazılım'da inovasyon--> 
+1. Yaşamınızın merkezinde algoritma geliştirmeyi almak önemlidir,
+2. Sisteme entegre edilebilecek şekilde algoritma geliştirilmesi önemlidir,
+3. Fikri Mülkiyet Haklarınızı (TPMK Fikri ve Sınai Mülkiyet Hakları) almak ve korumak önemlidir.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
