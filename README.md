@@ -1,6 +1,12 @@
 ## “Makineler Düşünebilir mi ve Nasıl Düşünebilir? (Arf, 1959)” 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Teknoloji, Yazılım ve Algoritma Geliştirmeyi Gençlere öğretmemiz lazım !!!!!!!
+
+## Geleceğin Bilim İnsanları için gelecek için yazılım konuşacaksak yazılım ile olacak !!!! 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # İstanbul Büyükşehir Belediyesinin İBB Açık Veri Portalında bulunan gerçek veriler ile Yapay Zeka Algoritmalarının Bütünleştirilerek Tümleşik bir sistemin ortaya çıkarılması
 
 # Amaç: 
