@@ -93,6 +93,15 @@ Bir Programlama Dili Öğrenimininde Akış Şeması
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Yapay Zeka'da Tarihçe
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-4.png)
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-5.png)
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-6.png)
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-7.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # 1. Bölüm -> Çalışma Ortamının Hazırlanması - GOOGLE COLAB ve GOOGLE DRIVE
 
 1.1. İstanbulun İlçeler Genelinde Günlük Su Tüketimlerinin Yapay Zeka Algoritmalarıyla İşlenerek Analizler Ortaya Çıkarılması
