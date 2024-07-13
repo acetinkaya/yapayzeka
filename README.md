@@ -81,9 +81,15 @@ Java; while, do-while ve for
 
 ## <--Programlama Dillerine Kontrol Yapıları ve Akış Şeması-->
 
+C++; if / if-else / switch-case 
+
+C#; if/ if-else / swictch-case
+
+Python; if / if-else / switch-case
+
+Java; if / if-else / switch-case
+
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-9.png)
-
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -93,7 +99,7 @@ Bir Programlama Dili Öğrenimininde Akış Şeması
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Yapay Zeka'nın Gelişiminde Önemli Tarihler - Olaylar
+## Yapay Zeka'nın Gelişiminde Önemli Tarihler - Olaylar
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-4.png)
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-5.png)
