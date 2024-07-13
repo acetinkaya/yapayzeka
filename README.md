@@ -54,9 +54,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.png)
-
-## <--Programlama Dillerine Göre Döngü Tipleri-->
+## <--Programlama Dillerine Göre Döngü Tipleri ve Akış Şeması -->
 
 C ve C++; while, do while ve for
 
@@ -66,16 +64,18 @@ Python; While,  for, range, len ve in
 
 Java; while, do-while ve for 
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.png)
+
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-10.png)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## <--Programlama Dillerine Kontrol Yapısının Akış Şeması-->
+## <--Programlama Dillerine Kontrol Yapıları ve Akış Şeması-->
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-9.png)
 
 
-## <--Programlama Dillerine Döngü Yapısının Akış Şeması-->
-
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-10.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
