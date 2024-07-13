@@ -31,7 +31,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# İstanbul Büyükşehir Belediyesinin İBB Açık Veri Portalında bulunan gerçek veriler ile Yapay Zeka Algoritmalarının Bütünleştirilerek Tümleşik bir sistemin ortaya çıkarılması
+## İstanbul Büyükşehir Belediyesinin İBB Açık Veri Portalında bulunan gerçek veriler ile Yapay Zeka Algoritmalarının Bütünleştirilerek Tümleşik bir sistemin ortaya çıkarılması
 
 # Amaç: 
 * Yapay Zeka çalışmalarında Türkçe literatürün önemi
@@ -55,7 +55,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Giriş: Yazılım Geliştirmede Algoritma ve Programlamanın Önemi
+## Giriş: Yazılım Geliştirmede Algoritma ve Programlamanın Önemi
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-8.png)
 
@@ -99,7 +99,7 @@ Java; while, do-while ve for
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Bir Programlama Dili Öğrenimininde Akış Şeması
+## Bir Programlama Dili Öğrenimininde Akış Şeması
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.jpg)
 
