@@ -50,10 +50,12 @@
 
 # Giriş: Algoritma ve Programlamanın Önemi
 
-![alternatif metin](
+Bir Programlama Dilinin Öğrenimin Akış Şeması
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.jpg)
 
 
-
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.png)
 
 <--Programlama Dillerine Göre Döngü Tipleri-->
 
