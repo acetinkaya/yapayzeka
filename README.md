@@ -45,7 +45,18 @@
 * Açık kaynak verinin işlenmesinde işlem aşamaları
 * Etkileşimli Çalışma ile Yapay Zeka Algoritmalarının Sistemsel Bütünlüğünü Öğrenme
 * Yapay Zeka Alanında Sürdürülebilirlik Sağlanması
-  
+
+## Eğitimimize başlamadan önce Yazılım, Algoritma, Programlama noktasında önemli olayların tarihsel sıralaması 
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-4.png)
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-5.png)
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-6.png)
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-7.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Giriş: Yazılım Geliştirmede Algoritma ve Programlamanın Önemi
@@ -96,15 +107,6 @@ Java; while, do-while ve for
 Bir Programlama Dili Öğrenimininde Akış Şeması
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.jpg)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Yapay Zeka'nın Gelişiminde Önemli Tarihler - Olaylar
-
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-4.png)
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-5.png)
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-6.png)
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-7.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
