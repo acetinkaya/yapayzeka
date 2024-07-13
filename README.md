@@ -93,7 +93,7 @@ Bir Programlama Dili Öğrenimininde Akış Şeması
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Yapay Zeka'da Tarihçe
+Yapay Zeka'nın Gelişiminde Önemli Tarihler - Olaylar
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-4.png)
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-5.png)
