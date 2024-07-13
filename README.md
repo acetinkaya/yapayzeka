@@ -54,6 +54,17 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.png)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## <--Programlama Dillerine Matematiksel İfadelerin Önemi
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-3.png )
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## <--Programlama Dillerine Göre Döngü Tipleri ve Akış Şeması -->
 
 C ve C++; while, do while ve for
@@ -63,9 +74,6 @@ C#; while, do-while, for ve foreach
 Python; While,  for, range, len ve in
 
 Java; while, do-while ve for 
-
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.png)
-
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-10.png)
 
