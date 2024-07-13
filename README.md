@@ -48,11 +48,9 @@
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Giriş: Algoritma ve Programlamanın Önemi
+# Giriş: Yazılım Geliştirmede Algoritma ve Programlamanın Önemi
 
-Bir Programlama Dilinin Öğrenimin Akış Şeması
-
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.jpg)
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-8.png)
 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.png)
@@ -68,6 +66,13 @@ Python; While,  for, range, len ve in
 Java; while, do-while ve for 
 
 ![alternatif metin](
+
+
+
+
+Bir Programlama Dilinin Öğrenimin Akış Şeması
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.jpg)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
