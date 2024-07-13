@@ -630,18 +630,25 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 # 4. Bölüm -> Yapay Zeka Uygulaması Kapsamında Veri Seti Üzerinde Tahmin Uygulamasının Geliştirilmesi - Gerçekleştirilmesi
 
-Bu uygulamada amaç: İBB İstanbulun İlçeleri Genelinde Günlük Su Tüketimlerinin Yapay Zeka Algoritmalarıyla İşlenerek Analizler Ortaya Çıkarılması
+4.1. Bu uygulamada amaç: İBB İstanbulun İlçeleri Genelinde Günlük Su Tüketimlerinin Yapay Zeka Algoritmalarıyla İşlenerek Analizler Ortaya Çıkarılması
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/2024-Istanbul-Su.png)
 
 Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüketim Miktarı, [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/ilce-bazinda-su-tuketim-miktari)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
+4.2. Veri Seti İçeriği
 
 ![Veri Seti İçeriği](https://github.com/acetinkaya/yapayzeka/blob/main/SuUygulamasi-1.png) 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
