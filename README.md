@@ -65,20 +65,6 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## <--Programlama Dillerine Göre Döngü Tipleri ve Akış Şeması -->
-
-C ve C++; while, do while ve for
-
-C#; while, do-while, for ve foreach
-
-Python; While,  for, range, len ve in
-
-Java; while, do-while ve for 
-
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-10.png)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## <--Programlama Dillerine Kontrol Yapıları ve Akış Şeması-->
 
 C++; if / if-else / switch-case 
@@ -90,6 +76,20 @@ Python; if / if-else / switch-case
 Java; if / if-else / switch-case
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-9.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## <--Programlama Dillerine Göre Döngü Tipleri ve Akış Şeması -->
+
+C ve C++; while, do while ve for
+
+C#; while, do-while, for ve foreach
+
+Python; While,  for, range, len ve in
+
+Java; while, do-while ve for 
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-10.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
