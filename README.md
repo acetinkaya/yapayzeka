@@ -694,7 +694,7 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
         os.chdir('/content/drive/My Drive/YapayZekaIstanbul')
         !pwd
 
-
+https://github.com/acetinkaya/yapayzeka/blob/main/yz_proje_1.png
         
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
