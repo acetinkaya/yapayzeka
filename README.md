@@ -698,7 +698,7 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4.6. Google Drive Çalışma alanımızda csv uzantılı veri seti bulma kodunu bir önceki örnekten farklı sobuç olması açısından çalıştıırıyoruz
+4.6. Google Drive Çalışma alanımızda csv uzantılı veri seti bulma kodunu bir önceki örnekten farklı sonuç olması açısından çalıştıırıyoruz
 
     import os
     import pandas as pd
