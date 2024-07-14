@@ -694,11 +694,8 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
         os.chdir('/content/drive/My Drive/YapayZekaIstanbul')
         !pwd
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/2024-Istanbul-Su.png)
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/yz_proje_1.png)
 
-
-https://github.com/acetinkaya/yapayzeka/blob/main/yz_proje_1.png
-        
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hz. Mevlana'nın Sözleriyle Eğitim serimizi tamamlıyoruz. 
