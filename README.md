@@ -698,8 +698,19 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4.6. Google Drive Çalışma alanımızda csv uzantılı veri seti bulma kodunu örnek olması açısından çalıştıırıyoruz
+4.6. Google Drive Çalışma alanımızda csv uzantılı veri seti bulma kodunu bir önceki örnekten farklı sobuç olması açısından çalıştıırıyoruz
 
+    import os
+    import pandas as pd
+    
+    VeriSetiKonumu = '/content/drive/My Drive/YapayZekaIstanbul/VeriSetleri'
+    
+    # VeriSetiYolu içindeki .csv dosyalarını bul ve say
+    csv_dosyaları = [dosya for dosya in os.listdir(VeriSetiKonumu) if dosya.endswith('.csv')]
+    
+    # .csv dosya sayısını ekrana yazdır
+    csv_dosya_sayisi = len(csv_dosyaları)
+    print(f"VeriSeti dosyası içerisinde {csv_dosya_sayisi} tane .csv dosyası bulunuyor.")
 
 
 
