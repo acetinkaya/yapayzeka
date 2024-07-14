@@ -688,8 +688,14 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
         #Google Colab'a Google Drive Bağlantısı
         from google.colab import drive
         drive.mount('/content/drive')
-                
 
+        #Google Drive'daki Dosyaya Erişim Bağlantısı
+        import os
+        os.chdir('/content/drive/My Drive/YapayZekaIstanbul')
+        !pwd
+
+
+        
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hz. Mevlana'nın Sözleriyle Eğitim serimizi tamamlıyoruz. 
