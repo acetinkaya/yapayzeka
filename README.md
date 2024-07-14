@@ -698,7 +698,9 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4.6. Google Colab'da Veri Seti Üzerinde veri ön işlemleri 
+4.6. Google Drive Çalışma alanımızda csv uzantılı veri seti bulma kodunu örnek olması açısından çalıştıırıyoruz
+
+
 
 
 
