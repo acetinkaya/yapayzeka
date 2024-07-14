@@ -678,7 +678,9 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 4.2. Veri Seti Erişim linki
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/ilcesuveriseti.csv)
+[Veri Seti Linki-->>](https://github.com/acetinkaya/yapayzeka/blob/main/ilcesuveriseti.csv)
+
+![alternatif metin](
 
 
 
