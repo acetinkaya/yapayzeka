@@ -682,10 +682,13 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
         print("Merhaba, Avcılar!")
 
-
         import sys
         print(sys.version)
-        
+
+        #Google Colab'a Google Drive Bağlantısı
+        from google.colab import drive
+        drive.mount('/content/drive')
+                
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
