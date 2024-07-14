@@ -712,6 +712,7 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
     csv_dosya_sayisi = len(csv_dosyaları)
     print(f"VeriSeti dosyası içerisinde {csv_dosya_sayisi} tane .csv dosyası bulunuyor.")
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/yz_proje_1.png)
 
 
 
