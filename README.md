@@ -11,7 +11,7 @@
 
 ## Öğrencilik günümüzde ikiye ayrıldı. Günümüz mezunları ile geçmiş mezuniyetler arasında çok fark olacak ... Bu işin bir noktasından Başlanılmalı ...
 
-## Akademik hayatının birinci önceliği diploma verme kurumu olarak değil sizlerin sektör ile arasında köprü olmasıdır.
+## Akademik hayatının birinci önceliği diploma verme kurumu olmadığı sektör ile öğrencilerimiz arasında köprü olmasının önemini vurgulanmalıdır.
 
 ## Bu köprü sürecinde eğerki temellerinizi yazılım - algoritma - programlama ile desteklemeyenler platform oluşturamayacaktır.
 
