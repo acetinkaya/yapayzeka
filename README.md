@@ -775,6 +775,10 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+https://github.com/acetinkaya/yapayzeka/blob/main/Su_islenen-3.png
+
+
 Hz. Mevlana'nın Sözleriyle Eğitim serimizi tamamlıyoruz. 
 
     Mum olmak kolay değildir !! 
