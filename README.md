@@ -793,7 +793,7 @@ kod içeriği-->
 
 4.11. Görsel Üzerinden Esenyurt ilçesinin su verisinin görselleştirilmesi
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Su_islenen-4.png)
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Su_islenen-5.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
