@@ -737,7 +737,6 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Su_islenen-2.png)
 
-
     import pandas as pd
     import matplotlib.pyplot as plt
     import matplotlib.ticker as ticker
@@ -775,8 +774,14 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+4.9. Su veri seti üzerinin görselleştirilmesinde graph ve plot ekleme ile görselin detaylandırılması
 
-https://github.com/acetinkaya/yapayzeka/blob/main/Su_islenen-3.png
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Su_islenen-3.png)
+
+
+
+
+
 
 
 Hz. Mevlana'nın Sözleriyle Eğitim serimizi tamamlıyoruz. 
