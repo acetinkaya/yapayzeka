@@ -774,7 +774,7 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4.9. Su veri seti üzerinin görselleştirilmesinde graph ve plot ekleme ile görselin detaylandırılması
+4.9. Su veri seti üzerinin görselleştirilmesinde graph ve plot ekleme ile görselin detaylandırılması - plotly Kütüphane Kurulum İşlemi
 
     !pip install plotly
 
@@ -783,7 +783,7 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4.10. 
+4.10. Su veri seti üzerinin görselleştirilmesinde graph ve plot ekleme ile görselin detaylandırılması - 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
