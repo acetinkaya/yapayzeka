@@ -733,6 +733,47 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+4.8. Su veri seti üzerinde ön işlemeye tabi tutuyoruz.
+
+    import pandas as pd
+    import matplotlib.pyplot as plt
+    import matplotlib.ticker as ticker
+    
+    # Veri setini yükleme ve temizleme
+    data = pd.read_csv(VeriSetiYolu, delimiter=';')
+    
+    # Sayısal kolonlardaki verileri temizleyip sayıya dönüştürme
+    for col in data.columns[2:]:
+        data[col] = data[col].str.replace('.', '').astype(int)
+    
+    # Belirtilen ilçeler için veriyi filtreleme
+    selected_ilces = ["AVCILAR", "BEYLIKDUZU", "BUYUKCEKMECE", "KUCUKCEKMECE", "SILIVRI", "ESENYURT"]
+    filtered_data = data[data['ILCELER'].isin(selected_ilces)]
+    
+    # Seçilen ilçeler için yıllık su tüketim miktarlarını çizme
+    plt.figure(figsize=(15, 8))
+    
+    for ilce in selected_ilces:
+        ilce_data = filtered_data[filtered_data['ILCELER'] == ilce]
+        plt.plot(data.columns[2:], ilce_data.iloc[0, 2:], label=ilce)
+    
+    plt.xlabel('Yıllar')
+    plt.ylabel('Su Tüketimi (m3)')
+    plt.title('Belirli İlçelerin Yıllara Göre Su Tüketim Miktarları')
+    
+    # Y eksenine binlik ayırıcı ekleme
+    ax = plt.gca()
+    ax.yaxis.set_major_formatter(ticker.FuncFormatter(lambda x, pos: f'{int(x):,}'))
+    
+    plt.legend()
+    plt.grid(True)
+    plt.tight_layout()
+    plt.show()
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Su_islenen-1.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Hz. Mevlana'nın Sözleriyle Eğitim serimizi tamamlıyoruz. 
 
     Mum olmak kolay değildir !! 
