@@ -729,6 +729,7 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
     # Düzenlenmiş veri setinin ilk birkaç satırını gösterme
     print(data.head())
 
+https://github.com/acetinkaya/yapayzeka/blob/main/Su_islenen-1.png
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
