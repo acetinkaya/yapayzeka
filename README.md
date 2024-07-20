@@ -735,6 +735,9 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 4.8. Su veri seti üzerinde ön işlemeye tabi tutuyoruz.
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Su_islenen-2.png)
+
+
     import pandas as pd
     import matplotlib.pyplot as plt
     import matplotlib.ticker as ticker
@@ -769,8 +772,6 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
     plt.grid(True)
     plt.tight_layout()
     plt.show()
-
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Su_islenen-2.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
