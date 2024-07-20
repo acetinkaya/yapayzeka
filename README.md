@@ -782,10 +782,9 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4.10. Su veri seti üzerinin görselleştirilmesinde graph ve plot ekleme ile görselin detaylandırılması 
+4.10. Su veri seti üzerinin görselleştirilmesinde graph ve plot ekleme ile görselin işleme alınması 
 
 kod içeriği--> 
-
 
 ![alternatif metin](
 
