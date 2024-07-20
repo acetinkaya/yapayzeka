@@ -776,6 +776,8 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 4.9. Su veri seti üzerinin görselleştirilmesinde graph ve plot ekleme ile görselin detaylandırılması
 
+    !pip install plotly
+
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Su_islenen-3.png)
 
 
