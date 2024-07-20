@@ -780,7 +780,6 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Su_islenen-3.png)
 
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 4.10. Su veri seti üzerinin görselleştirilmesinde graph ve plot ekleme ile görselin detaylandırılması 
