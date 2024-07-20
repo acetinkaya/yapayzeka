@@ -785,12 +785,13 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 4.10. Su veri seti üzerinin görselleştirilmesinde graph ve plot ekleme ile görselin işleme alınması 
 
 kod içeriği--> 
+.
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Su_islenen-4.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4.11. eklemelere devam
+4.11. Görsel Üzerinden Esenyurt ilçesinin su verisinin görselleştirilmesi
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
