@@ -718,6 +718,16 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 4.7. Su veri seti üzerinde ön işlemeye tabi tutuyoruz.
 
+    # Veri setinin yolunun gösterimi veya yüklemesi
+    VeriSetiYolu = '/content/drive/My Drive/YapayZekaIstanbul/VeriSetleri/ilcesuveriseti.csv'
+    data = pd.read_csv(VeriSetiYolu, delimiter=';')
+    
+    # Sayısal kolonlardaki verileri temizleyip sayıya dönüştürme
+    for col in data.columns[2:]:
+        data[col] = data[col].str.replace('.', '').astype(int)
+    
+    # Düzenlenmiş veri setinin ilk birkaç satırını gösterme
+    print(data.head())
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
