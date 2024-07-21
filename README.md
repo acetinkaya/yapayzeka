@@ -867,3 +867,11 @@ NOT: Bu kitaplar ülkemizin yapay zeka alanında ortaya çıkardığı çalışm
         https://alicetinkaya.site/
     
 <-- Saygılarımla Öğr. Gör. Ali ÇETİNKAYA - Temmuz 2024 -->
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
+
+IEEE--> A. Cetinkaya, "Yapayzeka." GitHub, [Online]. Erişim Linki: https://github.com/acetinkaya/yapayzeka. Son Erişim Tarihi: Gün Ay Yıl.
+
+APA--> Cetinkaya, A. (2024). Yapayzeka [GitHub Deposu]. GitHub. Erişim Linki: https://github.com/acetinkaya/yapayzeka. Son Erişim Tarihi: Gün Ay Yıl.
