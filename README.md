@@ -146,6 +146,13 @@ Java; while, do-while ve for
    Referans: İBB İSBAK A.Ş. (2024). Görüntü İşleme Yoluyla Elde Edilen Araç Verisi (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İstanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/goruntu-isleme-yoluyla-elde-edilen-arac-verisii (Erişim Tarihi: 25.06.2024)
    
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Bölüm 1.6'ya geçmeden önce sistemimiz bağlamında kullanacağımız ortamların hazırlığı;
+
+# 1. Github
+# 2. Google Drive
+# 3. Google Colab
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1.6. Aşama -> İnternette Bulunan Veri Seti Dosyalarını Bilgisayarınızda Masaüstünde "YapayZekaIstanbul" ismiyle acacağınız yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
 
