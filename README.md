@@ -797,7 +797,7 @@ kod içeriği-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4.12. Görsel Üzerinden İlçelerin su verisinin görselleştirilmesine devam ediyoruz!!!!
+4.12. Görsel Üzerinden Küçükçekmece ilçesinin su verisinin görselleştirilmesi
 
 
 
