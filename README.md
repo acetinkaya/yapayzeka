@@ -33,18 +33,20 @@
 
 ## İstanbul Büyükşehir Belediyesinin İBB Açık Veri Portalında bulunan gerçek veriler ile Yapay Zeka Algoritmalarının Bütünleştirilerek Tümleşik bir sistemin ortaya çıkarılması
 
-# Amaç: 
+## Amaç: 
 * Yapay Zeka çalışmalarında Türkçe literatürün önemi
+* Yapay Zeka çalışmalarında Türkçe veri setlerini işleyebilme önemli
 * Yapay Zeka ile gerçek verileri işlerken karşılaşılan sorunlara çözümler üretebilme
 * Oluşan çözümlerin gerçek hayat verileri olarak nasıl kullanılabileceği
-* Yapay Zeka kapsamında Bilinç ve Farkındalık oluşturma
-* Yaşadığımız şehrin sorunlarına ortak çözümler üretebilme
+* Yapay Zeka kapsamında bilinç ve farkındalık oluşturabilmek
+* Yaşadığımız şehrin verilerine ortak çözümler geliştirebilmek - üretebilmek
 * Türkçe Açık Kaynak Veri Setleri Üzerinde çalışma
 * Kurumlarımızın verilerine akademinin işbirliği - aracılığı ile çözümlerin ortaya koyabilmesi
 * Ülkemizin Açık Kaynak Veri Paylasımı noktasındaki çalışmaları dünyaya tanıtma ve duyurma
 * Açık kaynak verinin işlenmesinde işlem aşamaları
-* Etkileşimli Çalışma ile Yapay Zeka Algoritmalarının Sistemsel Bütünlüğünü Öğrenme
-* Yapay Zeka Alanında Sürdürülebilirlik Sağlanması
+* Etkileşimli çalışma ile Yapay Zeka algoritmalarının sistemsel bütünlüğünü öğrenme
+* Yapay Zeka alanında sürdürülebilirlik sağlanması
+* Yapay Zeka çalışmalarında gelişimin öğrenerek sağlanabilmesi
 
 ## Eğitimimize başlamadan önce Yazılım, Algoritma, Programlama noktasında önemli olayların tarihsel sıralaması 
 
