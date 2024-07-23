@@ -883,6 +883,12 @@ NOT: Bu kitaplar ülkemizin yapay zeka alanında ortaya çıkardığı çalışm
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Yukarıdaki bilgi, resim ve kod çalışmaları açık kaynak paylaşım olarak github "acetinkaya" alanında paylaşımı yapılmıştır.
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
 
 IEEE--> A. Cetinkaya, "Yapayzeka." GitHub, [Online]. Erişim Linki: https://github.com/acetinkaya/yapayzeka. Son Erişim Tarihi: Gün Ay Yıl.
