@@ -29,6 +29,8 @@
 
 ## Bu eğitimler ile ikinci hedef: Klasik konu algısından sıyrılarak uygulamalar için yapay zeka tabanlı algoritma geliştirmektir.  
 
+## Belki başka bir zamanda başka bir yerde bu YZ çalışması noktasında uygulama geliştirmek için zamanınız olmamış olabilir --> Bir yerden başlamanız lazım. Eğerki şuan buradaysak ve yapay zeka alanında deneyim kazanmaya başlamak istiyorsak doğru yerdesiniz. Önemli olan ilk başlangıçtır. 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## İstanbul Büyükşehir Belediyesinin İBB Açık Veri Portalında bulunan gerçek veriler ile Yapay Zeka Algoritmalarının Bütünleştirilerek Tümleşik bir sistemin ortaya çıkarılması
