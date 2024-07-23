@@ -887,6 +887,10 @@ Yukarıdaki bilgi, resim ve kod çalışmaları açık kaynak paylaşım olarak 
 
 Github alanından; star - yıldız ile beğenme bildirimi ile paylaşımlarıma destek verebilirsiniz.
 
+Bilgi paylaşıldıkça çoğalır ve gelişir. İyi çalışmalar dilerim.
+
+Öğr. Gör. Ali ÇETİNKAYA İstanbul, 2024
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
