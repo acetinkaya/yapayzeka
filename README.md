@@ -885,6 +885,7 @@ NOT: Bu kitaplar ülkemizin yapay zeka alanında ortaya çıkardığı çalışm
 
 Yukarıdaki bilgi, resim ve kod çalışmaları açık kaynak paylaşım olarak github "acetinkaya" alanında paylaşımı yapılmıştır.
 
+Github alanından;
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
