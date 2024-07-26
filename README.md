@@ -878,6 +878,12 @@ kod içeriği-->
 
 4.17. Model Eğitimi Sonucu 
 
+Hatalı Sonuc - Rastgele :DDD :
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/yz_uygulama_7.png)
+
+İstenen Tam Sonuc:
+
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/yz_uygulama_4.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
