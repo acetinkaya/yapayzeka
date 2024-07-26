@@ -976,7 +976,12 @@ Hatalı Sonuc - Rastgele :DDD :
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/yz_uygulama_5.png)
 
-# Modeli değerlendirme
+        Eğitim Modelinin Toplam Kayıp Oranı (Yüzdelik): 3.25%
+        Eğitim Modelinin Başarı Oranı (Yüzdelik): 96.75%
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4.19. Modeli değerlendirme
 
         # Eğitim sürecindeki kayıp değerlerini yüzdelik olarak hesaplama
         Modelin_kayip_degeri = [loss * 100 for loss in history.history['loss']]
@@ -992,7 +997,7 @@ Hatalı Sonuc - Rastgele :DDD :
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4.19. Modelin Değerlendirmesi ve Sonuç
+4.20. Modelin Değerlendirmesi ve Sonuç
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/yz_uygulama_6.png)
 
