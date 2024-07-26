@@ -29,7 +29,7 @@
 
 ## Bu eğitimler ile ikinci hedef: Klasik konu algısından sıyrılarak uygulamalar için yapay zeka tabanlı algoritma geliştirmektir.  
 
-## Belki başka bir zamanda başka bir yerde bu YZ çalışması noktasında uygulama geliştirmek için zamanınız olmamış olabilir --> Bir yerden başlamanız lazım. Eğerki şuan buradaysak ve yapay zeka alanında deneyim kazanmaya başlamak istiyorsak doğru yerdesiniz. Önemli olan ilk başlangıçtır. 
+## Belki başka bir zamanda başka bir konumda bu YZ çalışmaları noktasında uygulama geliştirmek için zamanınız olmamış olabilir --> Bir yerden başlamanız lazım. Eğerki şuan buradaysak ve YZ alanında deneyim kazanmaya başlamak istiyorsak doğru bir konumdasınız :D Önemli olan başlamak - devamdır... 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
