@@ -795,10 +795,48 @@ Bu uygulamanın veri seti:  İBB Açık Veri Portalı,  İlçe Bazında Su Tüke
 
 4.10. Su veri seti üzerinin görselleştirilmesinde graph ve plot ekleme ile görselin işleme alınması 
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Su_islenen-4.png)
+
 kod içeriği--> 
 .
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Su_islenen-4.png)
+        import pandas as pd
+        import matplotlib.pyplot as plt
+        import plotly.graph_objects as go
+        
+        # Veri setini yükleme ve temizleme
+        data = pd.read_csv(VeriSetiYolu, delimiter=';')
+        
+        # Sayısal kolonlardaki verileri temizleyip sayıya dönüştürme
+        for col in data.columns[2:]:
+            data[col] = data[col].str.replace('.', '').astype(int)
+        
+        # Belirtilen ilçeler için veriyi filtreleme
+        ilce_bilgileri = ["AVCILAR", "BEYLIKDUZU", "BUYUKCEKMECE", "KUCUKCEKMECE", "SILIVRI", "ESENYURT"]
+        filtered_data = data[data['ILCELER'].isin(ilce_bilgileri)]
+        
+        # Plotly kullanarak interaktif grafik oluşturma
+        fig = go.Figure()
+        
+        for ilce in ilce_bilgileri:
+            ilce_data = filtered_data[filtered_data['ILCELER'] == ilce]
+            fig.add_trace(go.Scatter(
+                x=data.columns[2:],
+                y=ilce_data.iloc[0, 2:],
+                mode='lines+markers',
+                line=dict(width=3),
+                name=ilce
+            ))
+        
+        fig.update_layout(
+            title='AVCILAR, BEYLIKDUZU, BUYUKCEKMECE, KUCUKCEKMECE, SILIVRI, ESENYURT İlçelerin Yıllara Göre Su Tüketim Miktarları',
+            xaxis_title='Yıllar',
+            yaxis_title='Su Tüketimi (m3)',
+            yaxis=dict(tickformat=','),
+            template='plotly_white'
+        )
+        
+        fig.show()
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
