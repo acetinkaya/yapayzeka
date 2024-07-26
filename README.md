@@ -1010,6 +1010,8 @@ Hatalı Sonuc - Rastgele :DDD :
         plt.xticks(rotation=45)
         plt.show()
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/yz_uygulama_1.png)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hz. Mevlana'nın Sözleriyle Eğitim serimizi tamamlıyoruz. 
