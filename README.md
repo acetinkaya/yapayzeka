@@ -49,6 +49,7 @@
 * Etkileşimli çalışma ile Yapay Zeka algoritmalarının sistemsel bütünlüğünü öğrenme
 * Yapay Zeka alanında sürdürülebilirlik sağlanması
 * Yapay Zeka çalışmalarında gelişimin öğrenerek sağlanabilmesi
+** Yazdığınınz kodun hakkını verin, izlemekle kod yazılmaz!!! 
 
 ## Eğitimimize başlamadan önce Yazılım, Algoritma, Programlama noktasında önemli olayların tarihsel sıralaması 
 
