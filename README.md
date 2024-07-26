@@ -996,7 +996,18 @@ Hatalı Sonuc - Rastgele :DDD :
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/yz_uygulama_6.png)
 
-
+        # Modelin tahmin performansını çizdirme
+        time_step = len(ilce_data) - len(trainY[0]) # Changed testY to trainY
+        
+        plt.figure(figsize=(12, 6))
+        plt.plot(years[time_step:time_step + len(trainY[0])], trainY[0], label='Gerçek Değerler', color='blue') # Changed testY to trainY
+        plt.plot(years[time_step:time_step + len(trainPredict)], trainPredict, label='Tahminler', color='red')
+        plt.title('Avcılar İlçesi için Gerçek Su Kullanım Değerleri ve Tahmin Edilen Değerlerin Görselleştirilmesi')
+        plt.xlabel('Yıl')
+        plt.ylabel('Su Tüketimi x (10^6) m^3')
+        plt.legend()
+        plt.xticks(rotation=45)
+        plt.show()
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
