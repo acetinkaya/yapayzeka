@@ -874,6 +874,62 @@ kod içeriği-->
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/yz_uygulama_3.png)
 
+        import pandas as pd
+        import numpy as np
+        from sklearn.preprocessing import MinMaxScaler
+        from tensorflow.keras.models import Sequential
+        from tensorflow.keras.layers import LSTM, Dense
+        import matplotlib.pyplot as plt
+        from sklearn.metrics import mean_absolute_error, mean_squared_error
+        
+        # Veri setini yükleme ve temizleme
+        data = pd.read_csv(VeriSetiYolu, delimiter=';')
+        
+        # Sayısal kolonlardaki verileri temizleyip sayıya dönüştürme
+        for col in data.columns[2:]:
+            data[col] = data[col].str.replace('.', '').astype(int)
+        
+        # Belirtilen ilçeler için veriyi filtreleme
+        selected_ilces = ["AVCILAR", "BEYLIKDUZU", "BUYUKCEKMECE", "KUCUKCEKMECE", "SILIVRI", "ESENYURT"]
+        filtered_data = data[data['ILCELER'].isin(selected_ilces)]
+        
+        # Örneğin sadece AVCILAR ilçesi için tahmin yapalım
+        ilce = 'AVCILAR'
+        ilce_data = filtered_data[filtered_data['ILCELER'] == ilce].iloc[0, 2:].values.reshape(-1, 1)
+        
+        # Yılları içeren bir dizi oluşturma
+        years = data.columns[2:].astype(int)
+        
+        # Veriyi ölçeklendirme
+        scaler = MinMaxScaler(feature_range=(0, 1))
+        ilce_data_scaled = scaler.fit_transform(ilce_data)
+        
+        # Girdi ve çıktı oluşturma (Zaman serisi verisi için)
+        def create_dataset(dataset, tahmin_adimi=1):
+            dataX, dataY = [], []
+            for i in range(len(dataset) - tahmin_adimi):
+                a = dataset[i:(i + tahmin_adimi), 0]
+                dataX.append(a)
+                dataY.append(dataset[i + tahmin_adimi, 0])
+            return np.array(dataX), np.array(dataY)
+        
+        tahmin_adimi = 4
+        trainX, trainY = create_dataset(ilce_data_scaled, tahmin_adimi)
+        
+        # LSTM girdi şekli (örnek sayısı, zaman adımı, özellik sayısı)
+        trainX = np.reshape(trainX, (trainX.shape[0], trainX.shape[1], 1))
+        
+        # LSTM Modeli oluşturma
+        model = Sequential()
+        model.add(LSTM(50, return_sequences=True, input_shape=(tahmin_adimi, 1)))
+        model.add(LSTM(50))
+        model.add(Dense(1))
+        model.compile(loss='mean_squared_error', optimizer='adam')
+        
+        # Modeli eğitme
+        # validation_split parametresi eklendi
+        history = model.fit(trainX, trainY, epochs=100, batch_size=1, verbose=2, validation_split=0.2)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 4.17. Model Eğitimi Sonucu 
@@ -886,17 +942,61 @@ Hatalı Sonuc - Rastgele :DDD :
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/yz_uygulama_4.png)
 
+        # Eğitim verisi üzerinde tahmin yapma
+        trainPredict = model.predict(trainX)
+        
+        # Tahminleri ters ölçeklendirme
+        trainPredict = scaler.inverse_transform(trainPredict)
+        trainY = scaler.inverse_transform([trainY])
+        
+        # Test verisi oluşturma (Son 4 yıl)
+        test_data = ilce_data_scaled[-tahmin_adimi:]
+        test_data = np.reshape(test_data, (1, tahmin_adimi, 1))
+        
+        # Test verisi üzerinde tahmin yapma
+        test_predict = model.predict(test_data)
+        
+        # Tahminleri ters ölçeklendirme (Son yıl)
+        test_predict = scaler.inverse_transform(test_predict)
+        test_y = ilce_data[-1:] 
+        
+        # Modelin hata performansını çizdirme
+        plt.figure(figsize=(12, 6))
+        plt.plot(history.history['loss'], label='Eğitim Kaybı')
+        plt.plot(history.history['val_loss'], label='Doğrulama Kaybı')
+        plt.title('Model Eğitim ve Doğrulama Kaybı')
+        plt.xlabel('Epoch')
+        plt.ylabel('Kayıp')
+        plt.legend()
+        plt.show()
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 4.18. Model Eğitimi Kayıp ve Başarı Oranı
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/yz_uygulama_5.png)
 
+# Modeli değerlendirme
+
+        # Eğitim sürecindeki kayıp değerlerini yüzdelik olarak hesaplama
+        Modelin_kayip_degeri = [loss * 100 for loss in history.history['loss']]
+        
+        # Eğitim sürecindeki kayıp değerlerini yüzdelik olarak yazdırma
+        for epoch, loss in enumerate(Modelin_kayip_degeri, 1):
+            print(f"Eğitim Adımı {epoch}: Kayıp Oranı = {loss:.2f}%")
+        
+        # Eğitim sürecindeki kayıp değerlerinin yüzdelik ortalamasını hesaplama
+        Kayip_hesabi = np.mean(Modelin_kayip_degeri)
+        print(f"Eğitim Modelinin Toplam Kayıp Oranı (Yüzdelik): {Kayip_hesabi:.2f}%")
+        print(f"Eğitim Modelinin Başarı Oranı (Yüzdelik): {100-Kayip_hesabi:.2f}%")
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 4.19. Modelin Değerlendirmesi ve Sonuç
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/yz_uygulama_6.png)
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
