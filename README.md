@@ -891,10 +891,13 @@ Github alanından; star - yıldız ile beğenme bildirimi ile paylaşımlarıma 
 
 Bilgi paylaşıldıkça çoğalır ve gelişir. İyi çalışmalar dilerim.
 
-Öğr. Gör. Ali ÇETİNKAYA İstanbul, 2024
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Yazdığınınz kodun hakkını verin, izlemekle kod yazılmaz!!!
+
+## Öğr. Gör. Ali ÇETİNKAYA İstanbul, 2024
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
 
 IEEE--> A. Cetinkaya, "Yapayzeka." GitHub, [Online]. Erişim Linki: https://github.com/acetinkaya/yapayzeka. Son Erişim Tarihi: Gün Ay Yıl.
