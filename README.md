@@ -972,16 +972,12 @@ Hatalı Sonuc - Rastgele :DDD :
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4.18. Model Eğitimi Kayıp ve Başarı Oranı
+4.18. Modeli değerlendirmesi, Modelin kayıp ve başarı oranlarının tespiti
+
+# Eğitim Modelinin Toplam Kayıp Oranı (Yüzdelik): 3.25%
+# Eğitim Modelinin Başarı Oranı (Yüzdelik): 96.75%
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/yz_uygulama_5.png)
-
-        Eğitim Modelinin Toplam Kayıp Oranı (Yüzdelik): 3.25%
-        Eğitim Modelinin Başarı Oranı (Yüzdelik): 96.75%
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-4.19. Modeli değerlendirme
 
         # Eğitim sürecindeki kayıp değerlerini yüzdelik olarak hesaplama
         Modelin_kayip_degeri = [loss * 100 for loss in history.history['loss']]
