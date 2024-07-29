@@ -993,7 +993,7 @@ Hatalı Sonuc - Rastgele :DDD :
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4.20. Modelin Değerlendirmesi ve Sonuç
+4.20. Oluşturulan Modelin Değerlendirmesi ve Sonuç
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/yz_uygulama_6.png)
 
