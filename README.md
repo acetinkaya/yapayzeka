@@ -1,4 +1,4 @@
-## “Makineler Düşünebilir mi ve Nasıl Düşünebilir? (Arf, 1959)” 
+## “Makine Düşünebilir mi ve Nasıl Düşünebilir? (Arf, 1959)” 
 
 ---
 
