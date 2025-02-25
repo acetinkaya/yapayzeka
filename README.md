@@ -23,7 +23,7 @@ NOT: Bu kitaplar ülkemizin yapay zeka alanında ortaya çıkardığı çalışm
 
 4. Prof. Dr. Vasıf NABİYEV, "Yapay zeka: insan-bilgisayar etkileşimi", Seçkin Yayınları, Ankara, 2021.
 
-5. Prof. Dr. Ali OKATAN, Tamer KARATEKİN, Dr. Kağan OKATAN, "100 Sayfada Makine Öğrenmesi Kitabı", Papatya Bilim Yayıncılık, İstanbul, 2020. 
+5. Prof. Dr. Ali OKATAN, Tamer KARATEKİN, Dr. Kağan OKATAN, "100 Sayfada Makine Öğrenmesi Kitabı", Papatya Bilim Yayıncılık, İstanbul, 2021. 
 
 6. Prof. Dr. Vasıf NABİYEV, "Teoriden Uygulamalara Algoritmalar", Seçkin Yayınları, Ankara, 2011.
 
